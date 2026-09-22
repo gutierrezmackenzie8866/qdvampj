@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：部署复盘：金丝雀发布流量切分实操方案
+简介：golang 开发环境快速搭建指南，快速完成 Golang 开发环境配置，工具链安装，环境变量设置，准备开发。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0479038.sHtMl
+
+原标题：golang 系统设计 cpu 高占用排查步骤
+简介：系统时间同步定时任务偏移，同步服务器系统时间，防止时间偏移，避免定时任务执行时间错乱。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3902360.sHtMl
+
+原标题：网络读取超时设置连接挂起防护
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3602457.sHtMl
+
+原标题：实践：灰度流量切分简易实现方案
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6000104.sHtMl
+
+原标题：golang 系统设计大事务拆分实战思路
+简介：项目目录结构规范化最佳实践，梳理源码、配置、静态资源目录划分，规范项目布局，提升代码可读性和可维护性。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6112333.sHtMl
+
+原标题：Hands‑on：本地模拟分布式锁失效场景测试
+简介：golang 大内存分配 GC 抖动规避，避免瞬时大量对象创建，分批处理，防止 GC 抖动业务抖动。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9366760.sHtMl
+
+原标题：Practice：实现请求大小限制中间件防护大报文
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8022226.sHtMl
+
+原标题：多规则数据脱敏组件开发
+简介：全平台系统环境变量配置，汇总多操作系统环境变量配置方法，统一项目读取逻辑，适配不同运行平台。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0446467.sHtMl
+
+原标题：golang mysql 时间类型选型避坑
+简介：golang jwt 鉴权中间件完整示例，Gin JWT 鉴权中间件，令牌校验，解析用户信息，接口鉴权拦截。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2148414.sHtMl
+
+原标题：golang consul 服务发现简单示例
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3924929.sHtMl
+
+原标题：golang mysql 时间类型选型避坑
+简介：开源项目构建失败排查步骤，梳理构建报错排查流程，从依赖、网络、权限、脚本多角度定位项目构建失败原因。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1616847.sHtMl
+
+原标题：golang 系统设计大表结构变更不停机方案
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0695504.sHtMl
+
+原标题：零基础理解读写分离基础思想
+简介：前端组件库按需加载性能优化，配置组件库按需引入，避免引入全部组件，减少打包产物体积。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1491141.sHtMl
+
+原标题：golang 系统设计数据库查询优化完整流程
+简介：golang systemd 配置 go 服务部署，编写 systemd unit 文件管理 go 服务，开机自启、崩溃自动重启。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7137882.sHtMl
+
+原标题：Docker 多阶段构建镜像瘦身
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2605476.sHtMl
+
+原标题：性能复盘：热点key导致RedisCPU飙升优化
+简介：golang 系统调用跟踪 strace 排查 go 程序，strace 跟踪系统调用，定位文件网络 IO 慢的底层原因。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5292798.sHtMl
+
+原标题：golang 系统设计性能优化通用思路方法论
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6272503.sHtMl
+
+原标题：业务错误码完整落地实践
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8485030.sHtMl
+
+原标题：nodejs 进程间通信 IPC 实操
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7470404.sHtMl
+
+原标题：性能笔记：服务CPU高负载定位分析完整步骤
+简介：golang grpc 服务端流推送数据，服务端流式响应，服务端持续向客户端推送多条响应消息。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0609060.sHtMl
+
+原标题：golang k8s 资源请求限制配置
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9251273.sHtMl
+
+原标题：golang 系统设计分表 id 生成策略对比
+简介：布隆过滤器误判问题修正，调整布隆过滤器参数，降低误判概率，保证业务去重逻辑准确。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4071670.sHtMl
+
+原标题：性能笔记：磁盘IO过高业务优化手段
+简介：golang 重试退避机制代码实现，Go 实现请求重试与指数退避，处理临时故障，提升调用稳定性。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4602347.sHtMl
+
+原标题：接口压测定位系统性能瓶颈
+简介：golang 本地消息表实现最终一致性，本地消息表 + 定时任务轮询，可靠消息实现分布式事务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0489258.sHtMl
+
+原标题：golang 系统设计缓存故障降级处理方案
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7921579.sHtMl
+
+原标题：golang 灰度权重流量分发简单实现
+简介：golang go 错误包装 fmt.Errorf % w，使用 % w 包装错误，支持 errors.Is errors.As 判断错误类型。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9835060.sHtMl
+
+原标题：golang mysql 避免 select * 查询
+简介：系统字符集统一乱码修复，统一数据库、程序、操作系统字符集，解决中文乱码显示异常问题。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8413795.sHtMl
+
+原标题：golang 系统设计技术方案文档模板参考
+简介：网络读取超时设置连接挂起防护，设置网络读取超时时间，防止请求无限挂起不返回，占用连接资源。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0482479.sHtMl
+
+原标题：调优方案：消息队列消费速度优化处理堆积
+简介：CI/CD 流水线自动构建部署落地，搭建完整 CI/CD 流水线，代码提交自动构建、测试、部署到目标环境。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3925079.sHtMl
+
+原标题：Architecture：API设计RESTful最佳实践与反模式
+简介：golang io.Copy 流式拷贝数据，io.Copy 拷贝 reader 到 writer，不用加载全部数据到内存。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9502703.sHtMl
+
+原标题：排错：GitLFS大文件推送失败完整排障
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8192302.sHtMl
+
+原标题：golang redis 缓存预热实现思路
+简介：golang slice 切片底层原理与坑点，切片扩容、截取、底层数组共享，规避切片修改互相影响数据。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6373814.sHtMl
+
+原标题：实践：分布式事务本地模拟验证实践
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3813576.sHtMl
+
+原标题：复盘总结：技术选型对比文档模板实践
+简介：golang tls 证书加载配置 https 服务，加载证书密钥，搭建 golang https 服务，配置 tls 版本安全策略。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1711561.sHtMl
+
+原标题：空指针异常判空容错处理
+简介：golang proto 默认值坑点梳理，梳理 Protobuf 默认值坑，零值字段区分未赋值，避免业务逻辑错误。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5166132.sHtMl
+
+原标题：正则表达式文本处理实战案例
+简介：golang 探测文件真实内容类型，读取文件头部字节判断真实文件格式，规避后缀伪造。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7335016.sHtMl
+
+原标题：实战：WebSocket断线重连完整业务处理实践
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4016147.sHtMl
+
+原标题：多规则数据脱敏组件开发
+简介：golang toml 配置文件解析教程，Go 解析 Toml 格式配置，适用于项目配置管理场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1828062.sHtMl
+
+原标题：优化实践：接口批量合并减少网络请求次数
+简介：golang rabbitmq 死信队列延迟消息，rabbitmq 实现死信、延迟消息，处理延时业务场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4060473.sHtMl
+
+原标题：调优方案：数据库索引不要过度建立，权衡写性能
+简介：请求重试组件退避策略实现，封装重试组件，实现指数退避策略，避免大量请求同时重试压垮下游。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2853756.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：WSL 搭建 Windows Linux 开发环境
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6302584.sHtMl
+
+原标题：设计思考：缓存分层架构设计与失效处理策略
+简介：golang 定时任务任务持久化存储，定时任务持久化到数据库，服务重启任务不丢失，动态管理任务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3041589.sHtMl
+
+原标题：调优方案：Docker容器内核参数性能调优
+简介：容器内存扩容 OOM 被杀死修复，调高容器内存限制，优化程序内存占用，避免程序被 OOM 终止。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8407924.sHtMl
+
+原标题：golang docker 镜像构建最佳实践
+简介：程序性能指标 CPU 内存监控，讲解基础性能指标含义，简单实现监控采集，初步定位程序运行性能瓶颈。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0489125.sHtMl
+
+原标题：Performance：数据库大表优化，冷热数据分离
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9268913.sHtMl
+
+原标题：DevOps：容器网络模式选型与坑点总结
+简介：golang nilnil interface 陷阱复现，interface 包含类型不为 nil 值为 nil，判 ==nil 返回 false 经典坑。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0602735.sHtMl
+
+原标题：express 请求参数校验处理
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0707946.sHtMl
+
+原标题：golang 系统设计服务优雅停机完整流程
+简介：golang redis list 队列简易消息队列，利用 Redis List 实现简易队列，完成任务入队消费基础能力。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9504523.sHtMl
+
+原标题：golang gorm ORM 数据库操作
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2968069.sHtMl
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3634037.sHtMl
+
+原标题：Practice：简易限流器分布式版本Redis实现
+简介：环境变量不生效问题修复，排查环境变量加载顺序、作用域问题，修复环境变量读取不到的异常。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4635149.sHtMl
+
+原标题：文件分片上传断点续传功能
+简介：RPC 报文大小上限调优大请求，调大 RPC 框架报文最大限制，支持传输大体积请求报文不被截断。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6251373.sHtMl
+
+原标题：golang 系统设计用户签到统计方案
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7045613.sHtMl
+
+原标题：Issue：防火墙拦截ICMP，MTU问题网络丢包
+简介：缓存过期打散防止缓存雪崩，对缓存过期时间增加随机偏移，避免大量缓存同时失效引发缓存雪崩。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3698908.sHtMl
+
+原标题：新手快速上手 Git 版本控制实操指南
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3604802.sHtMl
+
+原标题：Debug：时间回拨，定时任务调度逻辑错乱
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5292513.sHtMl
+
+原标题：部署实践：HTTPS证书自动续期配置实践
+简介：golang go 程序容器资源 requests limits，设置容器 cpu 内存配额，防止实例抢占集群资源，稳定调度。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1838149.sHtMl
+
+原标题：安全实践：输入输出双向过滤安全最佳实践
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2938130.sHtMl
+
+原标题：安全复盘：消息队列未授权访问安全加固
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4148079.sHtMl
+
+原标题：golang 系统设计压测工具 wrk 使用实操
+简介：网络读取超时设置连接挂起防护，设置网络读取超时时间，防止请求无限挂起不返回，占用连接资源。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2525847.sHtMl
+
+原标题：新手向：开源项目fork与同步上游代码
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6709880.sHtMl
+
+原标题：Debug：并发场景下数据覆盖丢失问题定位
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9211231.sHtMl
+
+原标题：实战项目：搭建私有Docker镜像仓库本地实践
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0921201.sHtMl
+
+原标题：实战项目：数据导出Excel百万级大数据导出方案
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1638091.sHtMl
+
+原标题：golang 单元测试 mock http 请求
+简介：golang crypto 密码学最佳实践，go crypto 包加密签名，规避不安全算法，使用安全密码套件。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0928608.sHtMl
+
+原标题：新手向：配置项目eslint/prettier代码格式化
+简介：golang tcp 连接泄露排查定位，netstat 查看连接状态，找出未正常关闭连接，定位连接泄漏代码。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9819180.sHtMl
+
+原标题：实战项目：搭建本地Mock服务快速开发联调
+简介：golang grpc 服务端流推送数据，服务端流式响应，服务端持续向客户端推送多条响应消息。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7010909.sHtMl
+
+原标题：版本升级服务启动失败处理
+简介：golang url 解析路径参数提取，url.Parse 解析 url，获取协议主机路径查询参数。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5475485.sHtMl
+
+原标题：Practice：实现业务id生成不连续有序ID方案
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7565521.sHtMl
+
+原标题：调优方案：消息批量消费提升MQ处理吞吐量
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9829079.sHtMl
+
+原标题：golang mysql 索引失效常见场景
+简介：golang go 爬虫请求速率控制，爬虫限频、代理轮换，设置 UA，防止爬虫被目标站点封禁 IP。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5463685.sHtMl
+
+原标题：golang 系统设计会话共享多实例部署
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2708014.sHtMl
+
+原标题：实践：前后端时间格式统一规范落地实践
+简介：golang 设置 net.Conn 读写超时，每次读写设置超时，防止连接永久阻塞挂起不返回。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2582470.sHtMl
+
+原标题：新手向：开源项目依赖安装失败排查
+简介：golang rabbitmq 死信队列延迟消息，rabbitmq 实现死信、延迟消息，处理延时业务场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9379035.sHtMl
+
+原标题：golang nginx 反向代理 go 服务配置
+简介：golang os/exec 安全执行外部命令，规避命令注入漏洞，参数分离，禁止拼接命令字符串执行。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8345982.sHtMl
+
+原标题：DevOps：环境配置管理区分开发测试生产
+简介：golang k8s informer 机制原理理解，informer 监听 k8s 资源变更，本地缓存，减少 apiserver 压力。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0918887.sHtMl
+
+原标题：Hands‑on：简易事件驱动架构原型开发
+简介：golang trace 可视化分析协程阻塞，使用 trace 网页 UI，定位协程阻塞、系统调用阻塞、锁等待。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4422201.sHtMl
+
+原标题：分布式 ID 全局唯一生成方案
+简介：缓存过期策略优化防业务故障，合理设置缓存过期策略，规避集中过期，减少缓存失效带来业务抖动。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9894533.sHtMl
+
+原标题：Hands‑on：手写简易ORM框架理解底层原理
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9378035.sHtMl
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：golang os 环境变量读取设置，os.Getenv os.Setenv os.Unsetenv 读写环境变量，环境变量多值处理。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5967025.sHtMl
+
+三、实战开发｜Practice
+原标题：安全实践：防止JSON解析漏洞恶意payload
+简介：数值 key 浮点匹配异常规避，避免浮点数作为 Redis 等存储的 key，防止精度问题引发 key 匹配失败。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6046935.sHtMl
+
+原标题：golang 系统设计故障演练简单落地思路方法论
+简介：golang context.WithCancel 手动取消上下文，WithCancel 生成可取消 ctx，手动调用 cancel 触发取消。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0783581.sHtMl
+
+原标题：golang 系统设计分布式配置中心思路
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2478036.sHtMl
+
+原标题：golang 文件上传下载接口开发
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4023813.sHtMl
+
+原标题：实践：API版本控制多种策略落地对比实践
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6926645.sHtMl
+
+原标题：线上异常：时间时区问题，定时任务执行偏移
+简介：golang mime 类型检测文件，mime 识别文件 mime 类型，设置 http 响应 Content‑Type。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5809000.sHtMl
+
+原标题：golang 日志脱敏敏感字段过滤
+简介：Fork 开源项目同步上游代码，Fork 开源仓库之后，配置上游源，同步官方最新代码，保持代码版本对齐。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4001132.sHtMl
+
+原标题：golang 项目 docker compose 本地调试
+简介：轻量 API 后端接口服务快速开发，快速搭建简易 API 服务，实现基础接口能力，快速支撑小型业务需求。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7935037.sHtMl
+
+原标题：服务健康检查告警监控体系
+简介：golang channel 缓冲无缓冲区别，缓冲 channel 与无缓冲 channel，底层行为差异业务选型参考。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2661248.sHtMl
+
+原标题：golang 系统设计 rest 版本管理几种方案对比
+简介：golang kitex 字节微服务框架入门，kitex 开发 rpc 微服务，代码生成，服务注册发现完整流程。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4105814.sHtMl
+
+原标题：Nginx 反向代理路由配置实战
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8157083.sHtMl
+
+原标题：性能笔记：线程池参数调优任务队列策略
+简介：golang 工具函数库封装思路，Go 通用工具库封装思路，错误处理、类型转换，业务项目复用工具代码。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8178044.sHtMl
+
+原标题：排错：本地[localhost](https://localhost)可以，127001访问失败
+简介：数据库连接池参数调优，调整连接池最大最小连接数，空闲超时，避免连接耗尽或者资源浪费。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0417323.sHtMl
+
+原标题：golang gin 路由分组权限管控
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3609199.sHtMl
+
+原标题：架构笔记：缓存雪崩缓存击穿架构防护方案
+简介：golang 错误静默忽略风险规避，禁止空忽略错误，必须处理或者明确注释为什么忽略错误。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3668980.sHtMl
+
+原标题：Practice：模拟主从延迟业务兼容方案实践
+简介：golang go 整洁架构代码组织实践，整洁架构依赖向内，解耦业务逻辑与外部基础设施。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9222101.sHtMl
+
+原标题：序列化版本不一致解析失败
+简介：golang runtime.Gosched 主动让出调度，长计算循环主动 Gosched，让出调度权，防止其他协程饥饿。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9692479.sHtMl
+
+原标题：golang 系统设计批量处理优化业务性能
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7158036.sHtMl
+
+原标题：架构笔记：数据库连接池架构参数调优思路
+简介：golang os.Exit 退出程序注意 defer 不执行，os.Exit 会直接退出，不会执行 defer，优雅退出不要直接 os.Exit。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9269148.sHtMl
+
+原标题：golang 集成测试启动测试数据库
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9280804.sHtMl
+
+原标题：golang 系统设计主键 id 选型雪花自增对比
+简介：golang 时间戳秒毫秒纳秒转换，Unix UnixMilli UnixNano 互相转换，区分单位避免时间逻辑 bug。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0277914.sHtMl
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：移动端适配 rem vw 方案对比，对比 rem 与 vw 移动端适配方案，分析优缺点，给出选型建议。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7386813.sHtMl
+
+原标题：golang 系统设计接口幂等架构设计
+简介：文件编码统一随机乱码修复，统一项目全部文件读写编码，消除随机中文乱码，保证文本处理稳定。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1881225.sHtMl
+
+原标题：磁盘占满服务不可用清理方案
+简介：Git LFS 大文件推送失败解决，配置 Git LFS，处理仓库大文件，解决大文件推送报错推送失败。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1919445.sHtMl
+
+原标题：golang 系统设计时间字段选型 datetime timestamp
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0992130.sHtMl
+
+原标题：Performance：缓存策略优化，降低数据库压力
+简介：开发测试生产多环境配置区分，讲解三套环境配置分离思路，配置文件隔离，防止开发配置泄露到生产环境。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3604657.sHtMl
+
+原标题：超大数据集分页性能优化方案
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1581357.sHtMl
+
+原标题：Git 子模块更新代码不全修复
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7547813.sHtMl
+
+原标题：golang 系统设计 mq 消息重复消费处理
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4147024.sHtMl
+
+原标题：golang 系统设计测试覆盖率目标合理设定思路
+简介：git stash 代码暂存切换分支，使用 stash 暂存未提交代码，切换其他分支处理紧急任务，再恢复原有工作进度。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6279148.sHtMl
+
+原标题：复盘总结：数据库迁移升级风险评估清单
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3811348.sHtMl
+
+原标题：运维笔记：系统内核参数调优生产服务器
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6348035.sHtMl
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：新手快速上手 Git 版本控制实操指南，讲解 Git 基础概念与常用命令，结合实操案例，帮助零基础用户掌握版本控制核心能力。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2056330.sHtMl
+
+原标题：golang 系统设计内存复用 sync.pool 使用
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6422857.sHtMl
+
+原标题：ICMP 放通网络丢包问题修复
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8269014.sHtMl
+
+原标题：nodejs 接口限流防刷代码实现
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8458035.sHtMl
+
+原标题：golang 系统设计开源项目自动化 ci 配置示例
+简介：文件编码统一随机乱码修复，统一项目全部文件读写编码，消除随机中文乱码，保证文本处理稳定。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1581247.sHtMl
+
+原标题：性能笔记：TCP参数内核调优服务高并发场景
+简介：ServiceWorker 缓存页面更新清理，处理 ServiceWorker 缓存，实现页面新版本更新，用户可以加载最新页面。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3599317.sHtMl
+
+原标题：架构笔记：高并发系统核心设计思路总结
+简介：golang tcp_NODELAY 关闭延迟发送，设置 tcp_NODELAY，关闭 Nagle 算法，降低小包请求延迟。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2645455.sHtMl
+
+原标题：golang mysql 悲观锁乐观锁实现
+简介：后端登录鉴权模块完整开发，实现完整登录模块，包含账号校验、令牌发放、接口鉴权整套能力。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6978980.sHtMl
+
+四、架构设计｜Architecture
+原标题：性能笔记：HTTP连接复用性能优化实践
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：http://wap.dtdfpa.asia/blog/8109021.sHtMl
+
+原标题：文件描述符优化进程卡死修复
+简介：golang 分布式事务 seata go 客户端，seata‑go 实现分布式事务，保证跨库业务数据最终一致性。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4356224.sHtMl
+
+原标题：golang docker 部署 mysql 注意事项
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2799647.sHtMl
+
+原标题：golang 系统设计缓存 key 淘汰雪崩防护思路
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7994469.sHtMl
+
+原标题：Dockerfile 编写容器打包实战
+简介：golang gorm 索引设置与优化技巧，定义数据库索引，理解索引生效条件，避免索引失效慢查询。
+ | 原文链接：http://wap.dtdfpa.asia/blog/4046823.sHtMl
+
+原标题：坑点：依赖缓存未更新，旧代码持续运行
+简介：全平台系统环境变量配置，汇总多操作系统环境变量配置方法，统一项目读取逻辑，适配不同运行平台。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6947702.sHtMl
+
+原标题：配置外部化线上部署防错误
+简介：业务错误码完整落地实践，落地完整业务错误码，枚举全部业务异常，统一返回，配套文档说明。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6047798.sHtMl
+
+原标题：快速上手搭建简易内网测试服务
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3134780.sHtMl
+
+原标题：golang redis 主从复制哨兵原理
+简介：golang time.Ticker 泄漏常见场景，忘记 Stop Ticker，导致协程泄漏，定时器资源无法释放。
+ | 原文链接：http://wap.dtdfpa.asia/blog/1591378.sHtMl
+
+原标题：项目脚手架模板生成工具
+简介：golang 分布式事务 seata go 客户端，seata‑go 实现分布式事务，保证跨库业务数据最终一致性。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7369258.sHtMl
+
+原标题：golang 系统设计故障预案编写模板参考示例
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：http://wap.dtdfpa.asia/blog/2088423.sHtMl
+
+原标题：线上故障：热点Key打满RedisCPU节点过载
+简介：golang trace 链路追踪 opentelemetry，opentelemetry 实现链路追踪，生成 traceId spanId，完整记录调用链路。
+ | 原文链接：http://wap.dtdfpa.asia/blog/9309545.sHtMl
+
+原标题：安全实践：接口错误信息不要暴露内部细节
+简介：golang go 爬虫 robots 协议遵守，解析 robots.txt 规则，控制爬虫抓取范围，合规采集网页数据。
+ | 原文链接：http://wap.dtdfpa.asia/blog/5814582.sHtMl
+
+原标题：快速上手简单的限流逻辑模拟实现
+简介：进程线程并发基础概念讲解，区分进程与线程，讲解调度逻辑，理解并发执行原理，为高并发业务开发打基础。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7260147.sHtMl
+
+原标题：axios 二次封装请求拦截处理
+简介：GitHub Markdown 文档语法汇总，整理 Markdown 常用语法，编写仓库 README、文档，提升开源项目文档排版质量。
+ | 原文链接：http://wap.dtdfpa.asia/blog/3014869.sHtMl
+
+原标题：Troubleshooting：数据库主从延迟带来查询数据不一致
+简介：golang rabbitmq go 客户端生产消费，streadway/amqp 实现 rabbitmq 生产者消费者，队列交换机绑定。
+ | 原文链接：http://wap.dtdfpa.asia/blog/6024570.sHtMl
+
+原标题：golang 系统设计覆盖索引减少回表查询实现
+简介：golang redis stream 消息队列实战，redis stream 实现可靠消息队列，消费组、ack 确认，消息不丢失。
+ | 原文链接：http://wap.dtdfpa.asia/blog/0267881.sHtMl
+
+原标题：golang 系统设计分布式锁超时业务防死锁处理
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://wap.dtdfpa.asia/blog/7134681.sHtMl
+
+?
