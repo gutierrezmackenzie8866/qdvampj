@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang makefile 自动化构建脚本
+简介：线程池拒绝策略任务丢失防护，合理设置线程池拒绝策略，处理任务队列满场景，避免业务任务直接丢失。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/80200282.html
+
+原标题：排坑：Git提交历史混乱，如何清理错误提交
+简介：包管理器依赖冲突解决方案，分析依赖冲突产生根源，提供版本调整、锁定依赖等手段，解决项目依赖报错问题。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/82024038.html
+
+原标题：golang 系统设计日志架构采集存储检索完整链路
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51694697.html
+
+原标题：CI 持续集成自动构建流程
+简介：golang gorm 原生 SQL 执行处理，复杂场景执行原生 SQL，处理返回结果集，兼顾性能与灵活性。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/59902525.html
+
+原标题：DNS 解析异常第三方调用故障
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/81683914.html
+
+原标题：golang 链路 traceId 透传中间件
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/25246960.html
+
+原标题：golang 系统设计集成测试数据库回滚重置方案
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30467682.html
+
+原标题：Hands‑on：简易反向代理中间件实现
+简介：golang go 包循环导入报错解决，A 导入 B B 导入 A，循环导入报错，重构代码拆分包消除循环依赖。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51572525.html
+
+原标题：包管理器依赖缓存清理
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63846915.html
+
+原标题：golang 系统设计读写分离架构示例
+简介：golang cgo 调用 C 语言代码示例，cgo 调用 C 函数，go 与 C 互相调用，对接 C 语言库能力。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/18251372.html
+
+原标题：golang 系统设计无锁编程思路简单示例
+简介：golang rsa 公钥加密私钥解密，rsa 非对称加密，大文件分块加密，处理非对称加密长度限制。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07179161.html
+
+原标题：golang 系统设计 cpu 高占用排查步骤
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74926949.html
+
+原标题：golang 系统设计分布式事务业务选型决策思路
+简介：react hooks 常见陷阱避坑指南，梳理 React Hooks 高频踩坑点，依赖数组、闭包陷阱，写出稳定组件。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/73796808.html
+
+原标题：golang 系统设计压测指标确定与分析
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07124027.html
+
+原标题：golang 错误处理最佳实践汇总
+简介：短信服务封装失败自动重试，封装短信发送组件，处理发送失败自动重试，兼容多短信服务商。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/52813920.html
+
+原标题：部署实践：告警收敛避免告警风暴配置
+简介：前端组件库按需加载性能优化，配置组件库按需引入，避免引入全部组件，减少打包产物体积。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/62712818.html
+
+原标题：Security：Docker镜像安全扫描漏洞修复
+简介：golang redis zset 实现延时任务队列，zset 存储任务到期时间，轮询到期任务执行，简易延迟队列。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30572555.html
+
+原标题：golang 系统设计缓存优化落地实操指南
+简介：golang word 文档生成处理 go 方案，go 生成 word 文档报表，填充文本表格，输出 docx 文件。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/29258275.html
+
+原标题：golang 系统设计 rest 状态码合理使用指南
+简介：golang go 二进制安全 strip 减小体积，strip 剥离二进制调试符号，缩小程序二进制文件体积。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/95027027.html
+
+原标题：golang 系统设计压测数据构造方法实现
+简介：数据库分表路由写入分片修正，修复分表路由逻辑，保证数据写入正确分片，不会出现数据丢失错乱。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63568144.html
+
+原标题：golang es 映射 mapping 设计避坑
+简介：css 变量主题切换方案实现，使用 CSS 变量实现网页主题切换，多套主题样式快速切换无需大量 CSS。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/04708147.html
+
+原标题：golang http client 连接池调优
+简介：golang tcp 四次挥手 go 程序行为，理解 tcp 四次挥手，处理连接关闭、重置、RST 包异常场景。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/35837180.html
+
+原标题：Practice：数据库分表简单实现方案与代码示例
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/97170281.html
+
+原标题：golang 系统设计分表分页排序业务实现难点
+简介：golang go get 升级降级依赖版本，go get 指定版本升级降级依赖包，管理第三方库版本。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/58670462.html
+
+原标题：百万数据 Excel 导出内存优化
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/40459103.html
+
+原标题：运维笔记：磁盘inode耗尽故障排查处理
+简介：golang rabbitmq go 客户端生产消费，streadway/amqp 实现 rabbitmq 生产者消费者，队列交换机绑定。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63894793.html
+
+原标题：golang 系统设计 mq 消息积压解决方案
+简介：golang 消息死信处理业务逻辑，Go 实现死信队列逻辑，消费失败消息转入死信，不阻塞正常消息队列。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/13124806.html
+
+原标题：静态资源 404 路径打包修复
+简介：golang 分库分表 id 路由规则设计，分库分表 id 路由算法，id 映射库表，数据均匀打散避免热点分片。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/25947946.html
+
+原标题：Practice：模拟热点key，验证缓存防护策略
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/60891513.html
+
+原标题：效率笔记：调试网络请求curl命令高级用法
+简介：golang 数据库 ORM 框架选型对比，gorm xorm sqlx 对比各 ORM 优缺点，根据业务场景选型。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41557357.html
+
+原标题：golang 系统设计压测环境隔离避免影响生产
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/37025137.html
+
+原标题：Performance：批量导入数据性能优化实践
+简介：golang 响应 body 流式返回大数据，http 流式输出数据，边生成边返回，无需在内存组装完整返回结果。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/58137160.html
+
+原标题：golang redis stream 消息队列实践
+简介：nodejs 项目 pm2 部署运维指南，使用 PM2 管理 Node 服务，进程守护、日志、重启，线上部署运维实操。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/35246833.html
+
+原标题：用户敏感数据脱敏代码实现
+简介：golang 自定义 http round tripper，封装 http 客户端拦截，实现请求日志、签名、重试统一处理逻辑。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/58580291.html
+
+原标题：快速入门消息队列基础概念模型
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/17256350.html
+
+原标题：Mock 接口服务快速搭建实操
+简介：golang goroutine 泄露检测告警实现，监控 goroutine 数量，突增触发告警，提早发现协程泄露。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/14816849.html
+
+原标题：入门实践：简单的请求封装与异常捕获
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/39245836.html
+
+原标题：实战项目：多实例部署会话一致性验证实践
+简介：golang 限流器熔断降级组合使用，限流熔断降级组合架构，流量防护完整方案，保障服务稳定性。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41589299.html
+
+原标题：golang 系统设计 io 瓶颈磁盘网络优化实践
+简介：golang time 时间格式化避坑，Go 时间格式化参考时间牢记，处理时间解析格式化，解决时间输出错乱。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/03734692.html
+
+原标题：复盘总结：技术方案文档模板架构设计文档
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/04251060.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计接口防刷 ip 限流实现
+简介：HTTP 状态码请求头完整梳理，汇总常用 HTTP 状态码与请求头含义，帮助快速看懂网络请求，排查接口通信问题。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/10366350.html
+
+原标题：golang 系统设计 traceId 全链路透传完整方案
+简介：golang trace 可视化分析协程阻塞，使用 trace 网页 UI，定位协程阻塞、系统调用阻塞、锁等待。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41692686.html
+
+原标题：golang 系统设计并发控制协程池任务池实现
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/70472461.html
+
+原标题：架构笔记：海量日志处理架构选型与实践
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/96030369.html
+
+原标题：性能复盘：消息队列大量小消息性能问题优化
+简介：系统文件描述符上限调大，调高操作系统文件描述符上限，解决高并发场景打开文件报错。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/27033026.html
+
+原标题：Hands‑on：简易速率限制中间件完整实现
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/31472577.html
+
+原标题：Practice：数据库分表简单实现方案与代码示例
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/93635806.html
+
+原标题：golang 系统设计多级缓存架构落地
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/93956836.html
+
+原标题：坑点：gitsubmodule子模块更新失败踩坑
+简介：golang go‑zero 框架项目快速搭建，go‑zero 脚手架生成微服务项目，api rpc 服务快速开发。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/02792581.html
+
+原标题：新手指南：如何读懂开源项目报错日志
+简介：golang ioutil 已废弃替换方案，ioutil 废弃之后替换为 os io 包函数，更新旧项目代码。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/03794622.html
+
+原标题：定时任务周期调度 demo 开发
+简介：Docker 容器入门镜像实操教程，介绍 Docker 基础概念，演示镜像拉取、容器启停，帮助新手建立容器化开发认知。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63701514.html
+
+原标题：方案设计：分布式锁失效风险架构层面规避
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/22588582.html
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：golang http 文件下载断点续传服务，服务端实现断点续传，支持大文件分段下载，提升大文件下载稳定性。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/06155837.html
+
+原标题：golang kafka 同步异步消费对比
+简介：golang influxdb 时序数据库读写操作，influxdb 存储时序指标，业务指标监控数据存取。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/40579361.html
+
+原标题：golang prometheus 告警规则编写
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/43681703.html
+
+原标题：Practice：实现业务唯一流水号生成组件实践
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07146848.html
+
+原标题：开源实践：Fork上游项目，持续同步更新代码
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63956069.html
+
+原标题：全局异常处理器接口返回统一
+简介：golang cgroup 读取容器资源限制，go 程序读取 cgroup，获取容器 cpu 内存限额，适配容器环境。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30523581.html
+
+原标题：golang consul 健康检查服务注册
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/69390292.html
+
+原标题：golang 系统设计 cpu 瓶颈定位优化方案
+简介：Docker 多阶段构建镜像瘦身，使用 Docker 多阶段构建，剔除编译阶段依赖，产出体积更小运行镜像。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/25915818.html
+
+原标题：golang 结构体 json 序列化坑点
+简介：golang go 程序版本号内置编译注入，编译时注入 git commit 版本号，程序运行输出版本便于排查。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41582472.html
+
+原标题：golang 系统设计缓存基准测试对比方案
+简介：本地运行正常线上报错排查，对比本地与线上环境差异，从配置、系统版本、文件权限定位线上独有的 bug。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/42605982.html
+
+原标题：实践：Git大仓库历史清理减小仓库体积实践
+简介：golang alertmanager 告警配置实践，alertmanager 配置告警路由，告警发送邮件钉钉，异常及时通知运维。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/53734604.html
+
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/29360399.html
+
+原标题：Architecture：对象存储接入业务整体架构
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30148026.html
+
+原标题：踩坑：重试逻辑未做幂等，重复生成业务数据
+简介：golang mysql 慢查询日志程序采集解析，程序读取解析 mysql 慢查询日志，统计慢 SQL 做监控告警。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/85026826.html
+
+原标题：架构笔记：业务操作审计日志系统架构设计
+简介：nodejs 信号处理优雅关闭服务，监听系统信号，执行资源清理，实现 Node 服务优雅停机，拒绝粗暴杀死进程。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/96937037.html
+
+原标题：浏览器内存泄漏排查前端页面
+简介：golang csv 读写批量数据处理，Go 读写 CSV 文件，批量导入导出业务数据，处理 CSV 格式解析。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74027935.html
+
+原标题：nodejs 跨域中间件配置细节
+简介：时间精度统一业务判断修复，统一业务使用时间戳精度，毫秒秒区分清楚，修复时间判断逻辑错误。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/47170684.html
+
+原标题：golang 系统设计开源版本发布 changelog 维护
+简介：Git 误提交撤销回退实操教程，演示多种撤销提交方式，区分已经推送远程和本地未提交场景，处理误提交代码。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74891713.html
+
+原标题：快速上手简易网关转发逻辑模拟
+简介：缓存过期策略优化防业务故障，合理设置缓存过期策略，规避集中过期，减少缓存失效带来业务抖动。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/28137360.html
+
+原标题：跨库查询性能优化处理
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/42684792.html
+
+原标题：Architecture：灰度、蓝绿、金丝雀发布架构对比
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/05240142.html
+
+原标题：Architecture：事件溯源架构模式适用业务场景
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07957362.html
+
+原标题：效率笔记：调试网络请求curl命令高级用法
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30461460.html
+
+原标题：golang ci 流水线自动部署 k8s 示例
+简介：golang go‑zero 缓存自动击穿防护，go‑zero 缓存组件自带缓存击穿防护，减少缓存层故障。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63616704.html
+
+原标题：开发记录：数据库悲观锁乐观锁业务场景实践
+简介：golang 日志级别动态调整热更新，不用重启程序动态修改日志输出级别，线上调试排查问题十分方便。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/96027929.html
+
+原标题：Troubleshooting：防火墙安全组拦截访问请求
+简介：上传接口跨域配置特殊适配，针对文件上传接口，适配复杂请求，修复上传场景下跨域失效问题。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/36169580.html
+
+原标题：快速入门消息队列基础概念模型
+简介：golang 微服务网关简易实现，http 反向代理、路由匹配、鉴权限流，理解网关核心原理。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/08239145.html
+
+原标题：缓存基础原理与简单代码实现
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/29251594.html
+
+三、实战开发｜Practice
+原标题：golang k8s 基础概念 pod deployment
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/25957256.html
+
+原标题：golang 系统设计多级缓存架构落地
+简介：手写简易 RPC 服务通信原型，手写极简 RPC 原型，理解服务注册、网络传输、方法调用底层逻辑。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41460352.html
+
+原标题：设计思考：分布式系统时钟同步带来的架构问题
+简介：golang go‑zero api 接口开发与路由，go‑zero 编写 api 定义文件，生成代码开发 http 接口。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30584680.html
+
+原标题：Troubleshoot：磁盘打满导致服务全部不可用
+简介：GraphQL 接口查询优化实操，体验 GraphQL 查询方式，按需获取字段，减少冗余数据传输，优化接口请求效率。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/03826959.html
+
+原标题：golang 系统设计定时任务失败重试告警实现
+简介：Spring 事务传播机制配置生效，理解事务传播行为，正确配置，修复事务不生效、事务失效的业务 bug。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/85241479.html
+
+原标题：golang toml 配置文件解析教程
+简介：golang 分布式 ID 雪花算法实现，Go 实现雪花算法，生成分布式全局唯一 ID，适配分库分表主键。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/38380362.html
+
+原标题：golang ci 流水线单元测试集成测试
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/85068141.html
+
+原标题：golang docker compose 依赖启动顺序
+简介：golang 分布式锁 redis 实现，基于 Redis 实现 Go 分布式锁，解决多实例并发竞争资源问题。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/29916806.html
+
+原标题：K8s 镜像拉取网络故障修复
+简介：golang redis 事务 multi exec 使用，Redis 事务 multi exec 实现批量命令原子执行，理解 redis 事务隔离特性。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/37578579.html
+
+原标题：Practice：模拟磁盘满，验证服务降级表现
+简介：MySQL 慢查询索引优化实战，抓取慢查询 SQL，分析执行计划，新增或者调整索引，提升 SQL 执行速度。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74816917.html
+
+原标题：DevOps：制品仓库管理二进制产物版本
+简介：golang context.WithTimeout 超时上下文，WithTimeout 设置超时时间，超时自动 cancel 释放协程。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/62282403.html
+
+原标题：Architecture：事件溯源架构模式适用业务场景
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07249357.html
+
+原标题：golang 消息死信处理业务逻辑
+简介：golang go 依赖漏洞检测 govulncheck，govulncheck 扫描依赖安全漏洞，发现项目供应链风险。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/96038028.html
+
+原标题：golang docker 基础命令实操汇总
+简介：golang docker compose 开发环境 go 服务，docker compose 编排 go 服务与中间件，本地一键拉起整套开发环境。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63794681.html
+
+原标题：golang 系统设计技术债务识别登记治理思路
+简介：golang go 程序权限最小化运行，容器内使用普通用户运行程序，拒绝 root 运行提升安全等级。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/71402902.html
+
+原标题：golang 系统设计测试覆盖率目标合理设定思路
+简介：golang http 重定向策略自定义，CheckRedirect 自定义重定向逻辑，限制重定向次数，防止死循环。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51574691.html
+
+原标题：Practice：从零实现轻量后端接口服务完整实践
+简介：golang go 单二进制文件静态编译交叉编译，交叉编译不同操作系统架构二进制文件，实现一次编译多平台运行。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/52684795.html
+
+原标题：分布式 ID 生成器高并发实现
+简介：golang socket 文件描述符继承重启，父进程传递 listener fd 给子进程，实现 go 程序零停机热重启。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51567329.html
+
+原标题：DNS TTL 配置域名切换生效
+简介：hosts 配置本地回环访问修复，修改 hosts 配置，修复 127.0.0.1 解析异常，本地服务访问失败问题。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/85916918.html
+
+原标题：编译打包产物依赖分析解读
+简介：golang gin 参数绑定 query form json，掌握 Gin 多种参数绑定方式，适配不同请求格式参数读取。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30580251.html
+
+原标题：方案设计：统一ID生成服务架构对比雪花算法
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/96067137.html
+
+原标题：K8s 镜像拉取网络故障修复
+简介：JSON XML 数据解析处理示例，演示两种格式数据解析与序列化，增加异常捕获，处理格式错乱导致解析失败。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/42526146.html
+
+原标题：部署实践：服务器时间同步chrony配置
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07256270.html
+
+原标题：实践：代码提交前自动格式化校验配置实践
+简介：数据库连接及时关闭连接泄漏，确保数据库连接使用完毕释放归还连接池，杜绝连接泄漏耗尽连接。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/81589469.html
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：golang go‑zero 配置中心热更新，go‑zero 对接 etcd 配置中心，配置热更新无需重启服务。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/70499281.html
+
+原标题：golang 系统设计 grpc proto 接口设计原则
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/18804790.html
+
+原标题：前端工程化 webpack 打包优化
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/08135130.html
+
+原标题：容器软链接文件权限修复
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/08856146.html
+
+原标题：golang 布隆过滤器实现去重
+简介：Docker 多阶段构建镜像瘦身，使用 Docker 多阶段构建，剔除编译阶段依赖，产出体积更小运行镜像。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/42583625.html
+
+原标题：不必要字符转义关闭业务异常
+简介：golang 容器健康检查接口开发，Go 开发 HTTP 健康接口，供容器编排工具探测实例存活状态。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51684814.html
+
+原标题：踩坑：对象未释放，长时间运行内存持续上涨
+简介：golang 项目 go mod 依赖管理，Go Mod 管理项目依赖，下载、升级、清理依赖，解决依赖版本管理。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74734757.html
+
+原标题：实践：前后端时间格式统一规范落地实践
+简介：golang sftp 文件上传下载操作，sftp 协议远程文件上传下载，实现服务器之间文件传输功能。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/82913814.html
+
+原标题：golang 系统设计 protobuf 命名规范最佳实践
+简介：读懂开源项目 README 实用技巧，教你快速解析开源项目说明文档，提取安装、运行、配置关键信息，快速上手项目。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/59350351.html
+
+原标题：golang minio 分片上传断点续传
+简介：golang go proxy 私有代理配置，配置 go proxy 私有代理，加速依赖下载，内网环境构建项目。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74813924.html
+
+原标题：入门实践：实现简单文件读写功能
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74956028.html
+
+原标题：开发记录：短信发送服务封装，失败重试策略
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/94835026.html
+
+原标题：服务熔断防止故障级联传播
+简介：慢查询分析索引调优数据库实战，抓取慢查询，分析执行计划，优化索引，解决数据库慢查询拖慢业务。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/18472479.html
+
+原标题：golang 系统设计监控大盘故障快速定位思路
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/53791716.html
+
+原标题：开发复盘：大列表内存分批读取避免OOM实践
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41735780.html
+
+原标题：实践：实现Redis分布式锁完整可运行代码
+简介：缓存过期策略优化防业务故障，合理设置缓存过期策略，规避集中过期，减少缓存失效带来业务抖动。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/75925917.html
+
+四、架构设计｜Architecture
+原标题：入门实践：本地简单代理服务搭建
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/52635736.html
+
+原标题：golang gin 静态资源访问配置
+简介：golang 系统信号信号量处理，Go 处理系统各类信号，SIGINT、SIGTERM，实现程序可控退出。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51680589.html
+
+原标题：golang 信号捕获程序退出处理
+简介：Git 标签版本标记发布管理，使用 Git 标签标记项目版本，打标签推送远程，用于版本发布、版本回溯。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/30370360.html
+
+原标题：端口占用释放资源重启服务
+简介：golang go cover 覆盖率报告生成，go test‑cover 生成测试覆盖率，html 可视化查看未覆盖代码行。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/07140380.html
+
+原标题：vite 项目配置与构建提速技巧
+简介：golang go 服务日志输出 journald，systemd journald 接收程序 stdout 日志，统一管理服务日志。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/63837068.html
+
+原标题：golang 熔断降级简易组件开发
+简介：golang redis hash 结构业务实战，使用 Redis Hash 存储对象数据，适合对象字段频繁更新业务场景。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/31582624.html
+
+原标题：golang 系统设计数据库死锁分析规避
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/85956028.html
+
+原标题：nestjs 权限守卫鉴权实现方案
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/18368069.html
+
+原标题：nodejs 事件循环机制完整讲解
+简介：golang go 信号处理优雅重启实现，USR2 触发程序重启，不关闭监听 socket 实现零停机升级。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/41189302.html
+
+原标题：快速入门OpenAPI文档生成基础实践
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/18156257.html
+
+原标题：golang 系统设计布隆过滤器拦截不存在 key
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/51471363.html
+
+原标题：架构复盘：多实例部署业务状态无状态改造
+简介：Git 误提交撤销回退实操教程，演示多种撤销提交方式，区分已经推送远程和本地未提交场景，处理误提交代码。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/31468916.html
+
+原标题：OpenSource：开源项目README高质量编写指南
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/74149147.html
+
+原标题：golang mongodb 分页性能优化技巧
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/28361357.html
+
+原标题：golang 系统设计网关请求日志 traceId 透传实现
+简介：CI 持续集成自动构建流程，讲解 CI 基础概念，配置流水线实现代码提交后自动构建、测试，提升交付自动化。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/28259467.html
+
+原标题：Debug：多线程共享可变变量产生脏数据
+简介：CORS 跨域问题多种解决方案，对比 CORS、代理等不同跨域方案优缺点，根据业务场景选择合适的跨域处理方式。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/72513524.html
+
+原标题：golang 分页查询封装通用工具
+简介：golang jwt 鉴权中间件完整示例，Gin JWT 鉴权中间件，令牌校验，解析用户信息，接口鉴权拦截。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/14815828.html
+
+原标题：运维笔记：服务器故障排查常用命令清单
+简介：golang json 解析未知动态 json 结构，解析到 map [string] any 处理未知 json，动态读取字段。
+ | 原文链接：﻿http://www.blog.temlp.cn/uliwn/95911691.html
+
+?
