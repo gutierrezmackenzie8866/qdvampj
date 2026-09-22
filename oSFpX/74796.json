@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计内部 rpc 接口设计原则梳理
+简介：golang go http 静态文件禁止目录遍历，http.FileServer 防止../ 路径穿越，了解底层安全实现。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/96222666.html
+
+原标题：版本升级服务启动失败处理
+简介：golang fasthttp 服务开发完整示例，fasthttp 搭建 http 服务，路由、参数读取、响应返回完整业务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/55098875.html
+
+原标题：性能笔记：服务CPU高负载定位分析完整步骤
+简介：API 大版本不兼容平滑迁移，API 版本迭代不兼容旧接口，设计平滑迁移方案，逐步完成版本切换。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/64885895.html
+
+原标题：项目实践：本地模拟缓存失效风暴验证防护
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/85210459.html
+
+原标题：部署实践：容器时区统一配置解决方案
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/01018865.html
+
+原标题：OpenSource：大型仓库Git历史清理瘦身实操
+简介：golang go 错误包装 fmt.Errorf % w，使用 % w 包装错误，支持 errors.Is errors.As 判断错误类型。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32222087.html
+
+原标题：多版本开发环境共存配置
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/24330976.html
+
+原标题：Troubleshoot：RPC序列化对象字段增减兼容踩坑
+简介：nodejs 单元测试 jest 实操教程，Jest 单元测试实操，编写测试用例，mock 依赖，验证业务逻辑正确性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/42665116.html
+
+原标题：Redis 分布式锁高并发安全实现
+简介：golang 雪花 id 重复问题排查，排查雪花算法 ID 重复问题，时钟回拨、机器 ID 冲突，给出修复方案。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/86716024.html
+
+原标题：系统字符集统一乱码修复
+简介：Git 仓库瘦身加快克隆下载速度，清理 Git 仓库历史大文件，缩减仓库体积，提升克隆拉取仓库速度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/43230997.html
+
+原标题：golang 系统设计 webhook 回调处理架构
+简介：TCP 心跳检测清理僵死连接，开启 TCP 心跳机制，自动清理僵死无效连接，释放连接资源。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/70226814.html
+
+原标题：nodejs 日志轮转生产环境配置
+简介：Fork 开源项目同步上游代码，Fork 开源仓库之后，配置上游源，同步官方最新代码，保持代码版本对齐。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/00297322.html
+
+原标题：golang 系统设计接口向前兼容改造实操
+简介：提交第一个开源 PR 完整流程，Fork 项目、修改代码、提交 Pull Request，讲解 PR 规范，提升合并通过率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/46633242.html
+
+原标题：HelloTest：理解集成测试基础编写思路
+简介：模拟登录鉴权权限判断示例，实现简易登录流程，会话状态维护，完成接口权限校验，理解身份鉴权基础逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32517139.html
+
+原标题：从零搭建简单定时任务demo
+简介：提交第一个开源 PR 完整流程，Fork 项目、修改代码、提交 Pull Request，讲解 PR 规范，提升合并通过率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/54686447.html
+
+原标题：性能笔记：压测如何定位真实系统瓶颈
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/03575790.html
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：golang 日志按日期切割实现方案，实现日志文件按天切割，自动归档旧日志，防止单个日志文件过大。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/69132356.html
+
+原标题：Hands‑on：简易事件驱动架构原型开发
+简介：golang runtime.Gosched 主动让出调度，长计算循环主动 Gosched，让出调度权，防止其他协程饥饿。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/25638013.html
+
+原标题：Hands‑on：简易代理服务器开发实践
+简介：golang go 泛型实现通用数据结构，泛型实现通用栈队列，复用逻辑支持多种数据类型。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/10330789.html
+
+原标题：golang 系统设计 websocket 协议原理梳理
+简介：golang go‑zero rpc 微服务开发，go‑zero 定义 proto，生成 rpc 服务代码，实现微服务调用。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/54911902.html
+
+原标题：接口请求重试容错机制实现
+简介：golang go 锁竞争导致 CPU 飙升，识别锁竞争场景，减少锁粒度，优化并发逻辑降低 CPU 开销。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/31406747.html
+
+原标题：入门实践：简易进度条CLI工具实现demo
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/76907894.html
+
+原标题：TLS 版本兼容 HTTPS 握手失败
+简介：超大数据集分页性能优化方案，对比不同分页方案，针对海量数据集做分页性能优化，解决越翻越慢。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/89129079.html
+
+原标题：记一次分库分表路由计算错误数据写入错误分片
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/10290792.html
+
+原标题：Practice：实现请求大小限制中间件防护大报文
+简介：数据库分表路由写入分片修正，修复分表路由逻辑，保证数据写入正确分片，不会出现数据丢失错乱。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32573524.html
+
+原标题：实战：单元测试+集成测试完整项目落地实践
+简介：golang proto 默认值坑点梳理，梳理 Protobuf 默认值坑，零值字段区分未赋值，避免业务逻辑错误。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/46806458.html
+
+原标题：Docker 容器入门镜像实操教程
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/76020236.html
+
+原标题：golang 系统设计 api 网关核心能力完整梳理
+简介：golang sqlx 原生 SQL 代码简化，sqlx 简化原生 SQL 结果映射结构体，兼顾性能与开发效率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/87968670.html
+
+原标题：Fork 开源项目同步上游代码
+简介：golang elasticsearch 客户端 golang 实操，es 客户端文档增删改查，条件搜索聚合统计对接搜索引擎。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/55706358.html
+
+原标题：日志驱动异常日志不输出修复
+简介：golang atomic.Value 存储任意类型数据，atomic.Value 安全存储读取任意类型，配置热更新常用。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/09452468.html
+
+原标题：安全笔记：XSS跨站脚本攻击防御落地实践
+简介：golang trace 工具采集 go 程序执行轨迹，go trace 采集程序完整调度轨迹，分析协程调度阻塞问题。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/77963569.html
+
+原标题：golang 系统设计熔断算法 hystrix 思路
+简介：GraphQL 接口查询优化实操，体验 GraphQL 查询方式，按需获取字段，减少冗余数据传输，优化接口请求效率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32441804.html
+
+原标题：golang 简单爬虫请求防封禁
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/46841206.html
+
+原标题：Debug：异步任务堆积，服务响应越来越慢
+简介：golang cgroup 读取容器资源限制，go 程序读取 cgroup，获取容器 cpu 内存限额，适配容器环境。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/54745452.html
+
+原标题：正则表达式优化 CPU 占满问题
+简介：golang io.MultiReader MultiWriter 拼接流，多个 reader 拼接，多 writer 同时写入一份数据。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32534235.html
+
+原标题：部署实践：Nginx反向代理传递真实客户端IP
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/21302313.html
+
+原标题：golang 系统设计告警分级 p0‑p3 定义处理流程
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32553586.html
+
+原标题：golang 系统设计数据库慢查询治理方案
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/66858674.html
+
+原标题：Hands‑on：简易ID生成雪花算法完整实现
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/35870233.html
+
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：golang consul 服务发现简单示例，对接 Consul 实现服务注册发现，微服务实例自动感知。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/45979044.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang rsa 非对称加密签名验签
+简介：缓存过期策略优化防业务故障，合理设置缓存过期策略，规避集中过期，减少缓存失效带来业务抖动。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/46901223.html
+
+原标题：golang 系统设计 http 接口基准测试实操示例
+简介：golang bufio.Scanner 缓冲区调大，Scanner 默认缓冲区大小不够，读取超长行需要扩大缓冲区。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/08775707.html
+
+原标题：Practice：实现请求大小限制中间件防护大报文
+简介：git stash 代码暂存切换分支，使用 stash 暂存未提交代码，切换其他分支处理紧急任务，再恢复原有工作进度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/08179685.html
+
+原标题：golang 系统设计防重复提交实现
+简介：日志输出规范防止磁盘爆满，控制日志输出量，配置日志切割轮转，避免日志文件无限增长占满磁盘。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/70301993.html
+
+原标题：Issue：文件编码混合GBKUTF‑8乱码随机出现
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/64797862.html
+
+原标题：服务器 Swap 关闭提升响应速度
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/24675670.html
+
+原标题：实战：多版本SDK兼容业务改造实践
+简介：golang 工具函数库封装思路，Go 通用工具库封装思路，错误处理、类型转换，业务项目复用工具代码。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32442468.html
+
+原标题：安全笔记：HTTPSTLS配置安全加固实践
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/65767579.html
+
+原标题：golang md5 sha 加密工具实现
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/10390892.html
+
+原标题：坑点：缓存穿透，大量无效请求打穿数据库
+简介：SSH 密钥配置 GitHub 免密登录，分步生成配置 SSH 密钥，实现 GitHub 免密推送拉取，免去重复输入账号密码的麻烦。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/43623427.html
+
+原标题：记一次分布式锁失效引发的数据错乱问题
+简介：JWT 工具封装令牌刷新过期，封装 JWT 工具类，实现令牌生成、校验、过期刷新整套令牌管理逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/98280791.html
+
+原标题：golang 系统设计线上 ddl 变更安全执行思路
+简介：golang net/http/httptest 服务端模拟，httptest.NewRecorder 记录 handler 响应，校验返回状态码 body。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/32553469.html
+
+原标题：安全复盘：Nginx配置不当带来的安全风险
+简介：HTTP 状态码请求头完整梳理，汇总常用 HTTP 状态码与请求头含义，帮助快速看懂网络请求，排查接口通信问题。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/21391425.html
+
+原标题：踩坑记录：浮点精度错误造成业务计算错误
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/75856458.html
+
+原标题：开发复盘：超时参数统一治理线上服务实践
+简介：golang html 模板渲染简单示例，Go HTML 模板渲染，服务端渲染页面，填充数据输出 HTML 页面。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/94623024.html
+
+原标题：DNS TTL 配置域名切换生效
+简介：golang grpc keepalive 保活配置，grpc keepalive 参数调优，检测断开僵死连接，释放无效连接资源。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/76846570.html
+
+原标题：golang 系统设计容器 OOM 故障完整排查
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/33513525.html
+
+原标题：golang 信号捕获程序退出处理
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/10330191.html
+
+原标题：golang goroutine 协程基础实操
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/76955575.html
+
+原标题：新手向：开源项目依赖安装失败排查
+简介：golang 数据库连接池参数调优详解，最大连接空闲连接最大生命周期，结合业务合理配置避免资源浪费。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/21411424.html
+
+原标题：异步编程 Promise 执行流程解析
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/54706857.html
+
+原标题：Debug：HTTPS握手失败TLS版本兼容问题
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/65355459.html
+
+原标题：实战项目：GitSubmodule管理多仓库实践
+简介：golang loki 日志收集 go 服务集成，日志输出适配 loki，标签携带 traceId，日志集中检索排查问题。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/75785631.html
+
+原标题：OpenSource：开源项目README高质量编写指南
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/98139024.html
+
+原标题：golang k8s 滚动更新回滚策略
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/68222245.html
+
+原标题：golang docker 运行 etcd 本地测试
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/25689459.html
+
+原标题：零基础理解内存溢出基础现象与表现
+简介：缓存穿透击穿雪崩全套防护，完整梳理缓存三大问题，落地全套防护策略，保障缓存层稳定运行。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/46001354.html
+
+原标题：golang 系统设计 api 网关核心能力梳理
+简介：nodejs 多进程任务分发处理，多进程拆分处理 CPU 密集任务，主进程分发任务，利用多核提升处理速度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/93447910.html
+
+原标题：前端水印防信息泄露实现
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/81557911.html
+
+原标题：Hands‑on：简易熔断逻辑状态机原型实现
+简介：golang 分布式事务 seata go 客户端，seata‑go 实现分布式事务，保证跨库业务数据最终一致性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/77124567.html
+
+原标题：DevOps：日志标准输出容器日志收集方案
+简介：golang http3 quic 客户端服务端示例，go 实现 http3 quic 服务端客户端，体验 quic 协议低延迟特性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/35856553.html
+
+原标题：golang rsa 非对称加密签名验签
+简介：golang 配置中心 apollo go 客户端，apollo go sdk 读取配置，配置变更自动热更新无需重启服务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/91291091.html
+
+原标题：实战项目：百万日志文件解析处理脚本实践
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/65978686.html
+
+原标题：golang mysql limit 大分页优化
+简介：golang go 第三方库选型评估要点，评估库活跃度维护情况、性能、依赖数量，选择合适开源库。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/98755632.html
+
+原标题：golang 系统设计 p0 故障复盘方法论讲解
+简介：分布式事务最终一致性实现，基于可靠消息实现最终一致性，解决跨数据库跨服务业务数据一致性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/05871368.html
+
+原标题：golang mongodb 事务多文档使用
+简介：静态博客部署 GitHub Pages 教程，将静态博客项目部署至 GitHub Pages，完成线上访问，快速搭建个人技术博客站点。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/51570469.html
+
+原标题：Practice：从零实现轻量后端接口服务完整实践
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/48013612.html
+
+原标题：golang 系统设计错误码体系完整设计
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/73481138.html
+
+原标题：系统时间同步定时任务偏移
+简介：消息队列消费堆积扩容处理，消息大量堆积时，扩容消费实例，优化消费逻辑，加快消息处理速度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/25912581.html
+
+原标题：实战：搭建日志收集分析简易完整演示环境
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/15803047.html
+
+三、实战开发｜Practice
+原标题：golang 系统设计接口超时设计原则梳理
+简介：调试工具断点调试变量查看技巧，演示断点设置、变量监视、调用栈查看，借助调试工具高效排查业务逻辑错误。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/30303946.html
+
+原标题：golang 系统设计分布式事务几种方案优缺点
+简介：golang context.Background 与 TODO 区别，Background 主流程根上下文，TODO 不确定用哪个上下文时使用。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/74994736.html
+
+原标题：golang 灰度权重流量分发简单实现
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/06934031.html
+
+原标题：golang 熔断降级简易组件开发
+简介：golang rate 令牌桶限流器源码理解，拆解令牌桶限流核心逻辑，理解令牌生成消耗，掌握限流底层原理。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/95947460.html
+
+原标题：golang 系统设计网关性能压测优化简单思路
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/94256241.html
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：golang http client 连接池调优，调优 Go HTTP Client 连接池参数，复用 TCP 连接，减少连接创建开销。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/81805115.html
+
+原标题：运维笔记：服务器故障排查常用命令清单
+简介：golang tidb 数据库 go 项目适配，go 程序适配 tidb，兼容 mysql 协议，分布式数据库业务开发。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/86361359.html
+
+原标题：DevOps：容器健康探针livenessreadiness配置
+简介：业务幂等键设计防重复逻辑，讲解幂等键设计思路，选择合适业务字段作为幂等标识，实现可靠防重复。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/40450390.html
+
+原标题：golang 系统设计压测环境隔离避免影响生产
+简介：golang 重试退避机制代码实现，Go 实现请求重试与指数退避，处理临时故障，提升调用稳定性。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/63730270.html
+
+原标题：rebase 操作防止代码丢失
+简介：golang trace 工具采集 go 程序执行轨迹，go trace 采集程序完整调度轨迹，分析协程调度阻塞问题。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/63683725.html
+
+原标题：golang prometheus metrics 埋点开发
+简介：Docker 容器入门镜像实操教程，介绍 Docker 基础概念，演示镜像拉取、容器启停，帮助新手建立容器化开发认知。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/17461806.html
+
+原标题：golang redis 发布订阅简单示例
+简介：OOMKilled 容器被杀完整排查，排查容器被 OOM 终止完整流程，区分程序内存泄露和容器内存限制过小。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/39380795.html
+
+原标题：golang 系统设计最小权限原则落地实践
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/29350491.html
+
+原标题：golang context 上下文传参讲解
+简介：前端静态缓存更新生效处理，修改静态资源版本标识，处理浏览器强缓存，让更新资源生效。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/06068481.html
+
+原标题：效率笔记：gitlog高效查询历史提交技巧
+简介：简易网关请求路由过滤模拟，模拟网关基础能力，实现请求路由转发、简单过滤，理解网关核心工作逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/29291706.html
+
+原标题：golang prometheus 告警规则编写
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/74735362.html
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：布隆过滤器数据高效去重实现，实现布隆过滤器组件，用于海量数据去重，节省大量内存空间。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/74905624.html
+
+原标题：快速上手搭建简易内网测试服务
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/21412805.html
+
+原标题：入门实践：本地简单代理服务搭建
+简介：golang io.Reader io.Writer 接口理解，io 读写接口，各类数据源统一抽象，适配 io 复制函数。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/28189383.html
+
+原标题：Troubleshooting：Redis大key引发集群卡顿
+简介：golang 开发环境快速搭建指南，快速完成 Golang 开发环境配置，工具链安装，环境变量设置，准备开发。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/40780794.html
+
+原标题：nodejs 全局异常捕获进程防护
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/95927950.html
+
+原标题：TCP 长连接参数优化 TIME_WAIT
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/52401705.html
+
+原标题：优化实践：批量操作性能优化，减少数据库IO
+简介：异步编程 Promise 执行流程解析，拆解异步执行顺序，理解回调与 Promise 差异，理清异步场景下代码执行逻辑。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/10390683.html
+
+原标题：安全实践：输入输出双向过滤安全最佳实践
+简介：进程线程并发基础概念讲解，区分进程与线程，讲解调度逻辑，理解并发执行原理，为高并发业务开发打基础。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/63113814.html
+
+原标题：开源项目本地运行排错完整清单
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/28250502.html
+
+原标题：调优方案：Nginx性能参数调优高并发配置
+简介：golang 配置中心 apollo go 客户端，apollo go sdk 读取配置，配置变更自动热更新无需重启服务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/24149060.html
+
+原标题：配置与镜像分离防止信息泄露
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/96061392.html
+
+原标题：运维笔记：服务器故障排查常用命令清单
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/03035131.html
+
+原标题：Nginx 透传真实客户端 IP 配置
+简介：批量数据处理脚本编写技巧，编写脚本批量处理大量业务数据，循环处理、分批执行，提升数据处理效率。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/47247014.html
+
+原标题：排错：CI缓存策略错误，每次全量重新构建
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/40465914.html
+
+原标题：Debug：序列化反序列化版本不一致解析失败
+简介：Nginx 透传真实客户端 IP 配置，配置 Nginx 把真实客户端 IP 传递后端服务，后端拿到访问者真实 IP。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/81145013.html
+
+原标题：快速入门：API接口调试完整实操步骤
+简介：全局本地依赖隔离冲突规避，区分全局依赖与项目本地依赖，隔离环境，防止全局包干扰项目运行。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/62568351.html
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：golang go 依赖漏洞检测 govulncheck，govulncheck 扫描依赖安全漏洞，发现项目供应链风险。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/39035705.html
+
+原标题：内存泄漏定位分析完整流程
+简介：新手参与开源社区贡献指南，介绍开源社区基础规则，讲解阅读 issue、提交 PR 流程，指导开发者参与开源贡献。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/82580258.html
+
+原标题：坑点：版本号语义化理解错误依赖版本错乱
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/15813681.html
+
+原标题：调优方案：JVM内存参数优化，降低GC频率
+简介：golang 时间戳秒毫秒纳秒转换，Unix UnixMilli UnixNano 互相转换，区分单位避免时间逻辑 bug。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/85024038.html
+
+原标题：效率笔记：批量处理文本命令行工具实战案例
+简介：golang mysql 事务回滚异常处理，Go MySQL 事务异常捕获，正确回滚事务，保证异常场景数据回滚。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/62623896.html
+
+原标题：方案对比：定时任务框架选型与架构对比
+简介：golang go proxy 私有代理配置，配置 go proxy 私有代理，加速依赖下载，内网环境构建项目。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/62735147.html
+
+原标题：开源实践：给开源项目写单元测试贡献代码
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/39179572.html
+
+原标题：Debug：DNS缓存TTL设置不当服务切换无法生效
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/29360393.html
+
+四、架构设计｜Architecture
+原标题：golang websocket 服务端开发
+简介：golang atomic.Value 存储任意类型数据，atomic.Value 安全存储读取任意类型，配置热更新常用。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/73727080.html
+
+原标题：Git commit 钩子提交规范校验
+简介：序列化版本不一致解析失败，保证序列化对象版本对齐，修复版本不匹配导致对象反序列化失败。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/07140138.html
+
+原标题：开发复盘：大事务拆分优化业务性能实践
+简介：golang 灰度发布流量权重路由实现，根据权重切分流量，部分流量访问新版本服务，实现灰度发布。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/17150357.html
+
+原标题：全量回归测试提升代码质量
+简介：golang ioutil 已废弃替换方案，ioutil 废弃之后替换为 os io 包函数，更新旧项目代码。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/41605034.html
+
+原标题：Redis 大 key 拆分集群卡顿解决
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/84149413.html
+
+原标题：方案对比：缓存更新策略Cache‑Aside读写模式
+简介：golang 数据库连接池参数调优详解，最大连接空闲连接最大生命周期，结合业务合理配置避免资源浪费。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/28179584.html
+
+原标题：golang 系统设计缓存空值防止缓存穿透实现
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/07138180.html
+
+原标题：golang 系统设计创建更新时间自动维护方案
+简介：golang go 调用动态链接库 so 文件，go 加载 so 动态库调用函数，复用编译好的 C 动态库。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/71714250.html
+
+原标题：golang 系统设计 rest 版本管理几种方案对比
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/40805847.html
+
+原标题：golang k8s 网络策略网络隔离设置
+简介：golang go 测试 t.Run 子测试分组，t.Run 实现子测试，分组执行用例，输出分组测试结果。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/62704735.html
+
+原标题：golang 系统设计磁盘满故障应急处理步骤
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/73794039.html
+
+原标题：端口占用释放资源重启服务
+简介：git cherry‑pick 规范操作防 bug，规范 cherry‑pick 使用流程，处理冲突，避免错误引入不兼容代码。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/62512815.html
+
+原标题：排错：前端缓存304异常更新不及时
+简介：用户敏感数据脱敏代码实现，编写数据脱敏工具，对手机号、身份证做脱敏处理，防止敏感信息直接泄露。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/28679493.html
+
+原标题：快速入门消息队列基础概念模型
+简介：端口占用访问失败排查方案，讲解端口占用排查命令，定位占用进程，释放端口，解决服务启动端口被占用报错。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/18482624.html
+
+原标题：golang mysql 慢查询日志开启分析
+简介：golang 任务失败重试与死信队列，异步任务失败自动重试，超过重试次数进入死信队列人工处理。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/39390380.html
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：golang mysql 事务回滚异常处理，Go MySQL 事务异常捕获，正确回滚事务，保证异常场景数据回滚。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/52805846.html
+
+原标题：golang 项目 makefile 脚本编写
+简介：CPU 亲和性配置负载均衡调度，配置进程 CPU 亲和，均衡利用多核 CPU，优化程序调度性能。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/73048058.html
+
+原标题：Security：业务操作审计日志安全留存
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://www.blog.tfzxt.cn/osqut/40390606.html
+
+?
