@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：接口签名校验防篡改实现
+简介：golang map 并发读写 panic 解决方案，map 非并发安全，讲解加锁、sync.map 方案解决并发读写崩溃。
+ | 原文链接：http://book.jfkdei.asia/blog/3058385.sHtMl
+
+原标题：全局异常处理器接口返回统一
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：http://book.jfkdei.asia/blog/5261572.sHtMl
+
+原标题：golang 系统设计会话共享多实例部署
+简介：数据库索引重建提升查询速度，针对碎片化索引，重建数据库索引，恢复 SQL 查询执行性能。
+ | 原文链接：http://book.jfkdei.asia/blog/3049461.sHtMl
+
+原标题：DevOps：容器健康探针livenessreadiness配置
+简介：vue3 组合式 API 业务开发实战，Vue3 组合式 API 业务实战示例，拆分业务逻辑组合复用，提升代码组织。
+ | 原文链接：http://book.jfkdei.asia/blog/5269475.sHtMl
+
+原标题：golang 系统设计 issue 模板 bug 反馈模板
+简介：golang ip2regionIP 地址解析实战，集成 ip2region 库，根据 IP 解析归属地城市，实现 IP 地域解析。
+ | 原文链接：http://book.jfkdei.asia/blog/6373647.sHtMl
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://book.jfkdei.asia/blog/9516848.sHtMl
+
+原标题：本地运行正常线上报错排查
+简介：css 动画性能优化 GPU 加速，优化 CSS 动画，使用 GPU 加速属性，避免动画过程页面卡顿掉帧。
+ | 原文链接：http://book.jfkdei.asia/blog/3736060.sHtMl
+
+原标题：golang 系统设计多级缓存更新策略
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：http://book.jfkdei.asia/blog/7079585.sHtMl
+
+原标题：全局本地依赖隔离冲突规避
+简介：golang 内存缓存简单实现方案，Go 实现进程内简易内存缓存，本地缓存热点数据，减少远程调用。
+ | 原文链接：http://book.jfkdei.asia/blog/3946170.sHtMl
+
+原标题：项目实践：Docker多环境镜像构建策略实践
+简介：golang 限流熔断放在代理层实践，代理层统一限流熔断，对后端服务做流量保护。
+ | 原文链接：http://book.jfkdei.asia/blog/8495648.sHtMl
+
+原标题：golang 系统设计死信队列 dlq 业务落地完整流程
+简介：golang 配置热更新不重启服务，实现配置热加载，监听配置变更，更新内存配置，无需重启服务实例。
+ | 原文链接：http://book.jfkdei.asia/blog/8527241.sHtMl
+
+原标题：安全笔记：文件下载接口路径校验安全
+简介：golang go 符号表与调试信息取舍，区分生产环境调试符号取舍，平衡镜像体积与故障排查能力。
+ | 原文链接：http://book.jfkdei.asia/blog/1825038.sHtMl
+
+原标题：service‑worker 离线缓存实践
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：http://book.jfkdei.asia/blog/6592817.sHtMl
+
+原标题：开发测试生产多环境配置区分
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：http://book.jfkdei.asia/blog/4140382.sHtMl
+
+原标题：数据库连接及时关闭连接泄漏
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://book.jfkdei.asia/blog/0724031.sHtMl
+
+原标题：Practice：实现多数据源动态切换组件实践
+简介：前端打包产物体积压缩优化，多手段压缩前端打包产物，移除无用代码，压缩资源，提升页面加载速度。
+ | 原文链接：http://book.jfkdei.asia/blog/7373037.sHtMl
+
+原标题：golang 系统设计第三方接口调用封装思路
+简介：golang go 逃逸分析实操查看，go build‑gcflags=-m 查看逃逸分析，减少堆分配优化程序性能。
+ | 原文链接：http://book.jfkdei.asia/blog/4150271.sHtMl
+
+原标题：排错：静态资源404，打包路径配置错误
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://book.jfkdei.asia/blog/3058363.sHtMl
+
+原标题：Hands‑on：手写简单消息队列理解存储模型
+简介：golang 读写分离 gorm 实现主从切换，gorm 配置主库写入从库查询，读写分离分担数据库查询压力。
+ | 原文链接：http://book.jfkdei.asia/blog/0526038.sHtMl
+
+原标题：golang 系统设计缓存降级开关快速切库实现
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://book.jfkdei.asia/blog/9636130.sHtMl
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：简易日志收集集中管理方案，搭建轻量日志收集方案，把多服务日志汇总，集中检索查看日志信息。
+ | 原文链接：http://book.jfkdei.asia/blog/1846272.sHtMl
+
+原标题：golang mysql innodb 事务隔离级别
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：http://book.jfkdei.asia/blog/7485737.sHtMl
+
+原标题：API 接口调试与异常处理实战
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://book.jfkdei.asia/blog/8481696.sHtMl
+
+原标题：新手指南：如何读懂开源项目报错日志
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://book.jfkdei.asia/blog/3747244.sHtMl
+
+原标题：程序性能指标 CPU 内存监控
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://book.jfkdei.asia/blog/4057252.sHtMl
+
+原标题：开发复盘：超时参数统一治理线上服务实践
+简介：分布式事务最终一致性实现，基于可靠消息实现最终一致性，解决跨数据库跨服务业务数据一致性。
+ | 原文链接：http://book.jfkdei.asia/blog/0647141.sHtMl
+
+原标题：时间同步修复令牌提前过期
+简介：golang 表格驱动测试完整示例，表格驱动多组输入输出，批量执行测试用例，减少重复代码。
+ | 原文链接：http://book.jfkdei.asia/blog/1717848.sHtMl
+
+原标题：monorepo 项目多包管理最佳实践
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://book.jfkdei.asia/blog/3979464.sHtMl
+
+原标题：golang minio 分片上传断点续传
+简介：golang httptest 模拟 http 请求单元测试，httptest 模拟 http 请求，测试 http handler 逻辑不用启动服务。
+ | 原文链接：http://book.jfkdei.asia/blog/4150585.sHtMl
+
+原标题：golang 系统设计 mq 故障降级业务策略
+简介：程序性能指标 CPU 内存监控，讲解基础性能指标含义，简单实现监控采集，初步定位程序运行性能瓶颈。
+ | 原文链接：http://book.jfkdei.asia/blog/7484626.sHtMl
+
+原标题：部署复盘：容器OOM问题完整排查流程
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：http://book.jfkdei.asia/blog/7374538.sHtMl
+
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：golang consul 服务发现简单示例，对接 Consul 实现服务注册发现，微服务实例自动感知。
+ | 原文链接：http://book.jfkdei.asia/blog/8536138.sHtMl
+
+原标题：golang 系统设计参数校验统一处理方案
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://book.jfkdei.asia/blog/4047179.sHtMl
+
+原标题：golang k8s secret 加密敏感信息
+简介：golang icmp ping 程序实现，go 实现 ping 工具发送 icmp 报文，检测网络连通性。
+ | 原文链接：http://book.jfkdei.asia/blog/6303926.sHtMl
+
+原标题：部署复盘：回滚策略，线上故障快速回退
+简介：ORM 框架数据库增删改查实操，使用 ORM 框架完成数据库基础操作，减少手写 SQL，简化业务层数据库交互代码。
+ | 原文链接：http://book.jfkdei.asia/blog/3968365.sHtMl
+
+原标题：架构笔记：多环境隔离架构开发测试生产隔离
+简介：ORM 框架数据库增删改查实操，使用 ORM 框架完成数据库基础操作，减少手写 SQL，简化业务层数据库交互代码。
+ | 原文链接：http://book.jfkdei.asia/blog/5191686.sHtMl
+
+原标题：golang ip 限流黑名单实现方案
+简介：golang os.Exit 退出程序注意 defer 不执行，os.Exit 会直接退出，不会执行 defer，优雅退出不要直接 os.Exit。
+ | 原文链接：http://book.jfkdei.asia/blog/4152426.sHtMl
+
+原标题：golang 系统设计测试覆盖率目标合理设定思路
+简介：golang go 模板执行错误捕获，捕获模板执行错误，防止模板错误直接返回空白页面。
+ | 原文链接：http://book.jfkdei.asia/blog/5263525.sHtMl
+
+原标题：安全复盘：Nginx配置不当带来的安全风险
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://book.jfkdei.asia/blog/4113817.sHtMl
+
+原标题：golang 系统设计 protobuf oneof 类型业务场景
+简介：全局本地依赖隔离冲突规避，区分全局依赖与项目本地依赖，隔离环境，防止全局包干扰项目运行。
+ | 原文链接：http://book.jfkdei.asia/blog/4158365.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：日志敏感信息脱敏泄露防护
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：http://book.jfkdei.asia/blog/1603858.sHtMl
+
+原标题：golang 容器健康检查接口开发
+简介：golang go 锁竞争导致 CPU 飙升，识别锁竞争场景，减少锁粒度，优化并发逻辑降低 CPU 开销。
+ | 原文链接：http://book.jfkdei.asia/blog/5268363.sHtMl
+
+原标题：代码格式化工具团队统一风格
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：http://book.jfkdei.asia/blog/4161282.sHtMl
+
+原标题：Architecture：事件溯源架构模式适用业务场景
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：http://book.jfkdei.asia/blog/2947171.sHtMl
+
+原标题：golang redis pipeline 批量操作
+简介：golang go 接口定义原则小接口，go 小接口设计原则，接口尽量小，只定义必要方法，提升代码灵活性。
+ | 原文链接：http://book.jfkdei.asia/blog/7140273.sHtMl
+
+原标题：golang k8s configmap secret 配置
+简介：golang go 随机数安全与非安全，math/rand 伪随机与 crypto/rand 密码学安全随机，区分业务场景。
+ | 原文链接：http://book.jfkdei.asia/blog/7302807.sHtMl
+
+原标题：Hands‑on：搭建OAuth2简易授权服务Demo
+简介：golang prometheus http 接口暴露指标，暴露 prometheus metrics 接口，输出业务运行指标，接入监控告警系统。
+ | 原文链接：http://book.jfkdei.asia/blog/0716837.sHtMl
+
+原标题：单元测试用例编写入门实操
+简介：golang viper 多源配置管理实操，viper 读取配置文件环境变量命令行参数，多源配置优先级管理。
+ | 原文链接：http://book.jfkdei.asia/blog/1818958.sHtMl
+
+原标题：实战项目：HTTPS本地自签名证书配置实践
+简介：golang wasm 浏览器 js 交互，go wasm 与 js 互相调用，浏览器端 go 程序操作 dom 调用 js 函数。
+ | 原文链接：http://book.jfkdei.asia/blog/2937270.sHtMl
+
+原标题：golang 系统设计 git 工作流本地开发提交流程
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://book.jfkdei.asia/blog/5150515.sHtMl
+
+原标题：安全笔记：请求头伪造IP漏洞防护
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://book.jfkdei.asia/blog/9692948.sHtMl
+
+原标题：golang 系统设计服务优雅停机完整流程
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：http://book.jfkdei.asia/blog/7485759.sHtMl
+
+原标题：开发记录：长连接连接管理自动清理僵死连接
+简介：WebSocket 聊天室实时通讯开发，基于 WebSocket 搭建简易聊天室，实现多人消息广播实时聊天效果。
+ | 原文链接：http://book.jfkdei.asia/blog/8313820.sHtMl
+
+原标题：接口限流逻辑简单模拟实现
+简介：axios 二次封装请求拦截处理，对 axios 做二次封装，统一请求拦截响应拦截，处理错误、token 自动刷新。
+ | 原文链接：http://book.jfkdei.asia/blog/4050493.sHtMl
+
+原标题：golang mysql 防止 sql 注入实践
+简介：nestjs 框架模块化项目搭建，从零搭建 NestJS 项目，模块化拆分业务，搭建规范后端项目骨架。
+ | 原文链接：http://book.jfkdei.asia/blog/1826260.sHtMl
+
+原标题：运维笔记：系统文件句柄数调整生产配置
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://book.jfkdei.asia/blog/0604626.sHtMl
+
+原标题：golang 系统设计缓存基准测试对比方案
+简介：项目依赖安全扫描漏洞防范，扫描项目第三方依赖包，修复存在安全漏洞依赖，防范供应链攻击。
+ | 原文链接：http://book.jfkdei.asia/blog/1828060.sHtMl
+
+原标题：架构笔记：分布式系统常见一致性模型梳理
+简介：OpenAPI 自动接口文档生成，集成 OpenAPI 工具，自动扫描代码生成接口文档，减少文档维护成本。
+ | 原文链接：http://book.jfkdei.asia/blog/6372706.sHtMl
+
+原标题：调优方案：Docker容器内核参数性能调优
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：http://book.jfkdei.asia/blog/1719068.sHtMl
+
+原标题：Practice：实现防爬虫简单拦截中间件实践
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://book.jfkdei.asia/blog/6302707.sHtMl
+
+原标题：从零学习简单分布式ID生成思路
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：http://book.jfkdei.asia/blog/1717848.sHtMl
+
+原标题：Hands‑on：简易链路追踪原型开发实践
+简介：数据库分表存储大表优化方案，对超大数据表做分表，拆分数据，降低单表数据量提升查询性能。
+ | 原文链接：http://book.jfkdei.asia/blog/8424918.sHtMl
+
+原标题：排坑：Git提交历史混乱，如何清理错误提交
+简介：golang csv 读写批量数据处理，Go 读写 CSV 文件，批量导入导出业务数据，处理 CSV 格式解析。
+ | 原文链接：http://book.jfkdei.asia/blog/1717071.sHtMl
+
+原标题：DevOps：环境配置管理区分开发测试生产
+简介：SDK 版本兼容线上崩溃修复，处理 SDK 版本升级之后线上崩溃，定位 API 变更，做版本兼容适配改造。
+ | 原文链接：http://book.jfkdei.asia/blog/8503815.sHtMl
+
+原标题：golang docker compose 完整语法
+简介：golang go 种子初始化 rand 随机，rand 初始化种子，不初始化会固定序列，理解随机数种子行为。
+ | 原文链接：http://book.jfkdei.asia/blog/3646131.sHtMl
+
+原标题：Architecture：BFF后端聚合层架构适用场景
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：http://book.jfkdei.asia/blog/9595726.sHtMl
+
+原标题：容器资源限制防止宿主机过载
+简介：golang ctx 关闭之后资源释放，context 取消后，监听 Done ()，释放 goroutine 网络 IO 资源。
+ | 原文链接：http://book.jfkdei.asia/blog/5159351.sHtMl
+
+原标题：实践：前后端时间格式统一规范落地实践
+简介：前端静态缓存更新生效处理，修改静态资源版本标识，处理浏览器强缓存，让更新资源生效。
+ | 原文链接：http://book.jfkdei.asia/blog/6262403.sHtMl
+
+原标题：Hands‑on：简易配置热更新组件开发实践
+简介：主干开发团队代码合并策略，讲解主干开发模式，团队代码合并流程，适合高频迭代的团队协作模式。
+ | 原文链接：http://book.jfkdei.asia/blog/2820273.sHtMl
+
+原标题：本地运行正常线上报错排查
+简介：golang go mod 私有 git 仓库配置，配置 go mod 拉取私有仓库代码，处理私有模块依赖拉取问题。
+ | 原文链接：http://book.jfkdei.asia/blog/2939181.sHtMl
+
+原标题：浏览器缓存强制刷新方案
+简介：分布式 ID 全局唯一生成方案，讲解分布式 ID 生成思路，实现全局唯一 ID，满足分布式系统主键生成需求。
+ | 原文链接：http://book.jfkdei.asia/blog/2957242.sHtMl
+
+原标题：Architecture：BFF后端聚合层架构适用场景
+简介：多环境配置中心灵活切换方案，简易配置中心实现，支持多套环境配置，动态下发无需重启服务。
+ | 原文链接：http://book.jfkdei.asia/blog/8480514.sHtMl
+
+原标题：golang 系统设计会话共享多实例部署
+简介：本地运行正常线上报错排查，对比本地与线上环境差异，从配置、系统版本、文件权限定位线上独有的 bug。
+ | 原文链接：http://book.jfkdei.asia/blog/9592735.sHtMl
+
+原标题：golang 系统设计分表扩容数据平滑迁移思路
+简介：golang time.Ticker 泄漏常见场景，忘记 Stop Ticker，导致协程泄漏，定时器资源无法释放。
+ | 原文链接：http://book.jfkdei.asia/blog/8203816.sHtMl
+
+原标题：Hands‑on：简易连接池原型实现理解原理
+简介：golang pdf 生成 go 服务端生成 pdf，服务端动态生成 pdf 报表文件，直接输出下载给到前端。
+ | 原文链接：http://book.jfkdei.asia/blog/4046058.sHtMl
+
+原标题：golang 系统设计分库分表中间件思路
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://book.jfkdei.asia/blog/5161391.sHtMl
+
+原标题：golang 配置文件多环境加载
+简介：golang 日志级别动态调整热更新，不用重启程序动态修改日志输出级别，线上调试排查问题十分方便。
+ | 原文链接：http://book.jfkdei.asia/blog/5148270.sHtMl
+
+原标题：入门实践：本地简单代理服务搭建
+简介：golang go 死锁检测工具，静态检查、运行检测，发现 channel 锁导致死锁问题。
+ | 原文链接：http://book.jfkdei.asia/blog/7491614.sHtMl
+
+原标题：Practice：实现批量任务失败断点续跑实践
+简介：git stash 代码暂存切换分支，使用 stash 暂存未提交代码，切换其他分支处理紧急任务，再恢复原有工作进度。
+ | 原文链接：http://book.jfkdei.asia/blog/1646169.sHtMl
+
+原标题：开发复盘：异步消息解耦业务流程落地实践
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：http://book.jfkdei.asia/blog/4049473.sHtMl
+
+三、实战开发｜Practice
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：http://book.jfkdei.asia/blog/0345467.sHtMl
+
+原标题：Hands‑on：简易邮件发送服务封装实践
+简介：golang benchmark 参数‑bench‑mem 统计内存分配，benchmark 开启内存统计，观察内存分配次数大小。
+ | 原文链接：http://book.jfkdei.asia/blog/2580112.sHtMl
+
+原标题：Debug：请求头过大Nginx拒绝连接报错
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：http://book.jfkdei.asia/blog/1454578.sHtMl
+
+原标题：实践：OpenAPI自动生成接口文档完整实践
+简介：包管理器依赖缓存清理，清理本地依赖缓存，解决缓存旧包引发问题，拉取最新版本依赖包。
+ | 原文链接：http://book.jfkdei.asia/blog/0489539.sHtMl
+
+原标题：优化实践：异步改造同步接口提升吞吐能力
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://book.jfkdei.asia/blog/6024013.sHtMl
+
+原标题：Practice：实现防爬虫简单拦截中间件实践
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://book.jfkdei.asia/blog/6029070.sHtMl
+
+原标题：看懂报错日志快速定位问题
+简介：golang nilnil interface 陷阱复现，interface 包含类型不为 nil 值为 nil，判 ==nil 返回 false 经典坑。
+ | 原文链接：http://book.jfkdei.asia/blog/6024126.sHtMl
+
+原标题：快速入门环境区分：开发、测试、生产环境
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://book.jfkdei.asia/blog/1278424.sHtMl
+
+原标题：排错：前端sourcemap错误线上无法定位报错
+简介：golang go‑zero rpc 微服务开发，go‑zero 定义 proto，生成 rpc 服务代码，实现微服务调用。
+ | 原文链接：http://book.jfkdei.asia/blog/3610911.sHtMl
+
+原标题：Practice：实现数据库事务消息最终一致性demo
+简介：golang http client 全局变量复用，http Client 不要每次请求新建，复用 Transport 提升性能。
+ | 原文链接：http://book.jfkdei.asia/blog/8561578.sHtMl
+
+原标题：golang gin 框架接口开发实战
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://book.jfkdei.asia/blog/6371707.sHtMl
+
+原标题：环境变量不生效问题修复
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://book.jfkdei.asia/blog/9696760.sHtMl
+
+原标题：Performance：批量导入数据性能优化实践
+简介：golang defer 闭包变量捕获坑，defer 捕获循环变量引用，变量被复写，理解闭包变量捕获规则。
+ | 原文链接：http://book.jfkdei.asia/blog/5262726.sHtMl
+
+原标题：方案设计：接口版本管理架构向前兼容策略
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：http://book.jfkdei.asia/blog/3152415.sHtMl
+
+原标题：避坑：正则回溯引发CPU占满DoS风险
+简介：CI/CD 流水线自动构建部署落地，搭建完整 CI/CD 流水线，代码提交自动构建、测试、部署到目标环境。
+ | 原文链接：http://book.jfkdei.asia/blog/1940570.sHtMl
+
+原标题：golang docker 网络模式桥接 host
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：http://book.jfkdei.asia/blog/5162405.sHtMl
+
+原标题：坑点：Git工作区换行符CRLF/LF跨平台坑
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：http://book.jfkdei.asia/blog/3036160.sHtMl
+
+原标题：布隆过滤器数据高效去重实现
+简介：项目依赖安全扫描漏洞防范，扫描项目第三方依赖包，修复存在安全漏洞依赖，防范供应链攻击。
+ | 原文链接：http://book.jfkdei.asia/blog/2827847.sHtMl
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：golang mqtt 客户端 go 开发物联网，paho.mqtt.golang 实现 mqtt 客户端，物联网设备消息收发。
+ | 原文链接：http://book.jfkdei.asia/blog/0604636.sHtMl
+
+原标题：golang http grpc 全链路埋点示例
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：http://book.jfkdei.asia/blog/9606138.sHtMl
+
+原标题：golang 系统设计内存复用 sync.pool 使用
+简介：golang defer 执行顺序与坑点，defer 后进先出，循环内部 defer 陷阱，资源释放正确写法。
+ | 原文链接：http://book.jfkdei.asia/blog/3061692.sHtMl
+
+原标题：git cherry‑pick 规范操作防 bug
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://book.jfkdei.asia/blog/2938241.sHtMl
+
+原标题：golang 系统设计开源项目协作流程梳理
+简介：golang http.Server 配置参数详解，ReadTimeout WriteTimeout IdleTimeout，全方位防护慢请求攻击。
+ | 原文链接：http://book.jfkdei.asia/blog/7371805.sHtMl
+
+原标题：Architecture：BFF后端聚合层架构适用场景
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：http://book.jfkdei.asia/blog/1828958.sHtMl
+
+原标题：golang redis 集群 hash 槽讲解
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://book.jfkdei.asia/blog/1424929.sHtMl
+
+原标题：golang 系统设计链路追踪架构简单讲解
+简介：axios 二次封装请求拦截处理，对 axios 做二次封装，统一请求拦截响应拦截，处理错误、token 自动刷新。
+ | 原文链接：http://book.jfkdei.asia/blog/6203818.sHtMl
+
+原标题：调优方案：服务实例扩容，水平扩展性能
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：http://book.jfkdei.asia/blog/8524921.sHtMl
+
+原标题：架构复盘：慢查询治理架构层面优化手段
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://book.jfkdei.asia/blog/0324937.sHtMl
+
+原标题：新手快速上手 Git 版本控制实操指南
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：http://book.jfkdei.asia/blog/7482715.sHtMl
+
+原标题：避坑：定时任务重复执行带来业务脏数据
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://book.jfkdei.asia/blog/4857260.sHtMl
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：短信服务封装失败自动重试，封装短信发送组件，处理发送失败自动重试，兼容多短信服务商。
+ | 原文链接：http://book.jfkdei.asia/blog/3042404.sHtMl
+
+原标题：golang 系统设计技术文档维护更新最佳实践
+简介：golang influxdb 时序数据库读写操作，influxdb 存储时序指标，业务指标监控数据存取。
+ | 原文链接：http://book.jfkdei.asia/blog/4161693.sHtMl
+
+原标题：Debug：DNS缓存TTL设置不当服务切换无法生效
+简介：端口占用释放资源重启服务，查找占用端口进程，结束占用进程，释放端口，让服务能够正常启动监听。
+ | 原文链接：http://book.jfkdei.asia/blog/7292717.sHtMl
+
+原标题：golang 系统设计逻辑删除物理删除选型对比
+简介：依赖版本冲突兼容修复方案，定位依赖版本冲突根源，通过版本约束、替换包，解决版本不兼容运行报错。
+ | 原文链接：http://book.jfkdei.asia/blog/4362365.sHtMl
+
+原标题：Hands‑on：简易事件驱动架构原型开发
+简介：Mock 接口服务快速搭建实操，搭建模拟后端接口，自定义返回数据、延迟响应，前端开发阶段无需依赖真实后端服务。
+ | 原文链接：http://book.jfkdei.asia/blog/9874524.sHtMl
+
+原标题：CI 构建缓存加速编译速度
+简介：golang gorm 原生 SQL 执行处理，复杂场景执行原生 SQL，处理返回结果集，兼顾性能与灵活性。
+ | 原文链接：http://book.jfkdei.asia/blog/8517031.sHtMl
+
+原标题：容器资源限制防止宿主机过载
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://book.jfkdei.asia/blog/7324029.sHtMl
+
+原标题：HelloMarkdown：GitHubMarkdown完整语法速查
+简介：TCP 心跳检测清理僵死连接，开启 TCP 心跳机制，自动清理僵死无效连接，释放连接资源。
+ | 原文链接：http://book.jfkdei.asia/blog/0605847.sHtMl
+
+原标题：golang 系统设计字段命名类型选择最佳实践
+简介：跨平台 uniapp 多端开发实操，uniapp 开发一套代码，编译多端，梳理多端差异处理与适配技巧。
+ | 原文链接：http://book.jfkdei.asia/blog/4079584.sHtMl
+
+原标题：开发复盘：统一错误码体系设计落地实践
+简介：golang http 服务并发连接数限制，自定义 listener 统计连接数量，限制最大并发连接数保护服务。
+ | 原文链接：http://book.jfkdei.asia/blog/4079574.sHtMl
+
+四、架构设计｜Architecture
+原标题：架构复盘：限流系统架构防止恶意流量冲击
+简介：文件监控服务自动重启开发，监控项目文件变更，代码修改自动重启服务，提升本地开发调试效率。
+ | 原文链接：http://book.jfkdei.asia/blog/0613929.sHtMl
+
+原标题：Troubleshooting：数据库索引失效，查询性能暴跌
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：http://book.jfkdei.asia/blog/0424251.sHtMl
+
+原标题：golang gin 框架接口开发实战
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://book.jfkdei.asia/blog/8424029.sHtMl
+
+原标题：系统字符集统一乱码修复
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：http://book.jfkdei.asia/blog/8413026.sHtMl
+
+原标题：Performance：后端接口性能优化完整分析流程
+简介：本地简易配置中心动态管理，搭建轻量本地配置中心，业务动态读取配置，修改配置不重启服务。
+ | 原文链接：http://book.jfkdei.asia/blog/0424252.sHtMl
+
+原标题：golang net/http 超时全套配置
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://book.jfkdei.asia/blog/7482528.sHtMl
+
+原标题：实战：基于内存实现简单消息广播组件
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://book.jfkdei.asia/blog/2524139.sHtMl
+
+原标题：golang jaeger 链路追踪 go 接入
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：http://book.jfkdei.asia/blog/6480808.sHtMl
+
+原标题：golang 系统设计大表加索引线上执行方案
+简介：静态站点自动部署发布方案，配置流水线，代码更新自动构建静态站点并且部署上线，简化发布。
+ | 原文链接：http://book.jfkdei.asia/blog/3937070.sHtMl
+
+原标题：golang redis 位图用户签到统计
+简介：golang nil channel 阻塞特性，nil channel 读写永久阻塞，理解 nil channel 行为做逻辑控制。
+ | 原文链接：http://book.jfkdei.asia/blog/6379504.sHtMl
+
+原标题：golang 系统设计多级缓存更新策略
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：http://book.jfkdei.asia/blog/7604737.sHtMl
+
+原标题：golang kafka 死信队列业务落地
+简介：看懂报错日志快速定位问题，讲解日志阅读方法，解析堆栈信息含义，学会从报错信息中定位代码出错位置。
+ | 原文链接：http://book.jfkdei.asia/blog/4039193.sHtMl
+
+原标题：设计思考：系统幂等性整体架构层面保障
+简介：内网 DNS 不稳定随机报错排查，定位内网 DNS 抖动问题，配置备选 DNS，解决偶现域名解析失败。
+ | 原文链接：http://book.jfkdei.asia/blog/1728060.sHtMl
+
+原标题：实战项目：前端资源打包体积优化完整实操
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://book.jfkdei.asia/blog/4756252.sHtMl
+
+原标题：新手向：配置项目eslint/prettier代码格式化
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：http://book.jfkdei.asia/blog/1828463.sHtMl
+
+原标题：golang k8s 日志收集 efk 简单架构
+简介：golang 限流器熔断降级组合使用，限流熔断降级组合架构，流量防护完整方案，保障服务稳定性。
+ | 原文链接：http://book.jfkdei.asia/blog/0423148.sHtMl
+
+原标题：从零编写简易 CLI 命令行工具
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://book.jfkdei.asia/blog/2857360.sHtMl
+
+原标题：golang 系统设计告警升级通知策略配置思路
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://book.jfkdei.asia/blog/5150393.sHtMl
+
+?
