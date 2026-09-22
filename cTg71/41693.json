@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计布隆过滤器拦截不存在 key
+简介：golang 钉钉企业微信告警消息推送，go 调用企业微信钉钉接口，推送告警通知、业务消息。
+ | 原文链接：http://wap.adsxlp.asia/blog/2939462.sHtMl
+
+原标题：记一次内存Swap被大量使用系统响应缓慢
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：http://wap.adsxlp.asia/blog/7373582.sHtMl
+
+原标题：Troubleshooting：K8sPodOOMKilled完整排查流程
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://wap.adsxlp.asia/blog/0302463.sHtMl
+
+原标题：hosts 配置本地回环访问修复
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：http://wap.adsxlp.asia/blog/1840292.sHtMl
+
+原标题：DevOps：Docker镜像安全扫描集成CI流程
+简介：golang wasm 浏览器 js 交互，go wasm 与 js 互相调用，浏览器端 go 程序操作 dom 调用 js 函数。
+ | 原文链接：http://wap.adsxlp.asia/blog/2938171.sHtMl
+
+原标题：﻿【GettingStarted】从零搭建本地开发环境完整指南
+简介：静态博客部署 GitHub Pages 教程，将静态博客项目部署至 GitHub Pages，完成线上访问，快速搭建个人技术博客站点。
+ | 原文链接：http://wap.adsxlp.asia/blog/4159582.sHtMl
+
+原标题：实战：基于内存实现简单消息广播组件
+简介：golang 任务失败重试与死信队列，异步任务失败自动重试，超过重试次数进入死信队列人工处理。
+ | 原文链接：http://wap.adsxlp.asia/blog/6383590.sHtMl
+
+原标题：设计思考：大促系统架构压测改造整体思路
+简介：golang excel 大文件读取流式解析，流式读取大 excel 文件，逐行解析数据，不加载全部内容进内存。
+ | 原文链接：http://wap.adsxlp.asia/blog/0820300.sHtMl
+
+原标题：golang 系统设计创建更新时间自动维护方案
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://wap.adsxlp.asia/blog/8167259.sHtMl
+
+原标题：排错：静态资源404，打包路径配置错误
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：http://wap.adsxlp.asia/blog/4839394.sHtMl
+
+原标题：Practice：实现请求body重复读取中间件实践
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：http://wap.adsxlp.asia/blog/6337059.sHtMl
+
+原标题：Performance：避免内存拷贝，大对象处理优化
+简介：代码格式化工具团队统一风格，接入格式化工具，统一全团队代码书写风格，减少格式类 git 冲突。
+ | 原文链接：http://wap.adsxlp.asia/blog/5260693.sHtMl
+
+原标题：Practice：实现多数据源动态切换组件实践
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：http://wap.adsxlp.asia/blog/7601505.sHtMl
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：http://wap.adsxlp.asia/blog/0724748.sHtMl
+
+原标题：golang 系统设计唯一索引业务使用场景
+简介：nodejs 多进程任务分发处理，多进程拆分处理 CPU 密集任务，主进程分发任务，利用多核提升处理速度。
+ | 原文链接：http://wap.adsxlp.asia/blog/2939282.sHtMl
+
+原标题：golang 系统设计 tcc 事务简单原理业务示例
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：http://wap.adsxlp.asia/blog/9602637.sHtMl
+
+原标题：nodejs 数据库连接池配置调优
+简介：跨平台 uniapp 多端开发实操，uniapp 开发一套代码，编译多端，梳理多端差异处理与适配技巧。
+ | 原文链接：http://wap.adsxlp.asia/blog/5268460.sHtMl
+
+原标题：手写简易 MQ 理解消息存储消费
+简介：缓存穿透击穿雪崩全套防护，完整梳理缓存三大问题，落地全套防护策略，保障缓存层稳定运行。
+ | 原文链接：http://wap.adsxlp.asia/blog/9594686.sHtMl
+
+原标题：接口压测定位系统性能瓶颈
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://wap.adsxlp.asia/blog/2850259.sHtMl
+
+原标题：golang 系统设计单元测试边界条件覆盖思路
+简介：golang wasm webassembly go 编译，go 编译为 wasm，浏览器执行 go 代码，拓展 go 运行场景。
+ | 原文链接：http://wap.adsxlp.asia/blog/6150303.sHtMl
+
+原标题：记一次升级操作系统内核引发服务不稳定
+简介：golang 信号触发配置重载实践，收到 SIGUSR1 信号重新加载配置，线上无需重启刷新配置。
+ | 原文链接：http://wap.adsxlp.asia/blog/1717061.sHtMl
+
+原标题：安全复盘：Redis未授权访问漏洞防护
+简介：golang go 无锁并发编程技巧，原子操作 sync/atomic，简单场景替换锁，提升并发性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/8581525.sHtMl
+
+原标题：Shell 脚本自动化命令编写
+简介：golang strings 常用函数业务实战，字符串分割替换包含判断前缀后缀，掌握 strings 包高频函数。
+ | 原文链接：http://wap.adsxlp.asia/blog/7413036.sHtMl
+
+原标题：Architecture：中小型后端服务整体架构设计复盘
+简介：golang time 时间格式化避坑，Go 时间格式化参考时间牢记，处理时间解析格式化，解决时间输出错乱。
+ | 原文链接：http://wap.adsxlp.asia/blog/7473684.sHtMl
+
+原标题：golang redis 五种数据结构实战
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://wap.adsxlp.asia/blog/3050374.sHtMl
+
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://wap.adsxlp.asia/blog/5857470.sHtMl
+
+原标题：DevOps：GitLabCI完整流水线配置示例
+简介：golang http 服务优雅关闭完整示例，接收终止信号，停止接收新请求，等待现有请求处理完毕后退出服务。
+ | 原文链接：http://wap.adsxlp.asia/blog/6970702.sHtMl
+
+原标题：踩坑记录：文件描述符不足，上传功能随机失败
+简介：golang pprof 线上采集性能数据，线上环境采集 pprof 性能样本，不用停机，分析线上性能问题。
+ | 原文链接：http://wap.adsxlp.asia/blog/6591402.sHtMl
+
+原标题：golang 数据库批量更新性能优化
+简介：nodejs 内存溢出问题排查修复，Node.js 程序 OOM 排查流程，定位内存泄露，调整内存限制修复崩溃。
+ | 原文链接：http://wap.adsxlp.asia/blog/5373484.sHtMl
+
+原标题：项目实践：Docker多环境镜像构建策略实践
+简介：前端静态缓存更新生效处理，修改静态资源版本标识，处理浏览器强缓存，让更新资源生效。
+ | 原文链接：http://wap.adsxlp.asia/blog/0713030.sHtMl
+
+原标题：性能复盘：磁盘Swap大量使用系统卡顿优化
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://wap.adsxlp.asia/blog/6385858.sHtMl
+
+原标题：快速上手简单性能监控指标查看
+简介：golang redis 锁超时业务处理，Redis 分布式锁超时问题处理，锁续期逻辑，防止业务未完成锁提前释放。
+ | 原文链接：http://wap.adsxlp.asia/blog/0713024.sHtMl
+
+原标题：golang redis hyperloglog 基数统计
+简介：golang go toml 配置注释保留，toml 解析保留注释，修改配置后写回保留原有注释。
+ | 原文链接：http://wap.adsxlp.asia/blog/6383625.sHtMl
+
+原标题：golang 系统设计压测数据构造方法实现
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：http://wap.adsxlp.asia/blog/4146068.sHtMl
+
+原标题：排错：DockerCompose依赖顺序启动顺序坑
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：http://wap.adsxlp.asia/blog/4261268.sHtMl
+
+原标题：golang 系统设计容器镜像安全加固要点
+简介：golang io.Copy 流式拷贝数据，io.Copy 拷贝 reader 到 writer，不用加载全部数据到内存。
+ | 原文链接：http://wap.adsxlp.asia/blog/7489178.sHtMl
+
+原标题：记一次第三方SDK版本兼容引发线上故障
+简介：短信服务封装失败自动重试，封装短信发送组件，处理发送失败自动重试，兼容多短信服务商。
+ | 原文链接：http://wap.adsxlp.asia/blog/5969589.sHtMl
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://wap.adsxlp.asia/blog/3048131.sHtMl
+
+原标题：Troubleshooting：Redis大key引发集群卡顿
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://wap.adsxlp.asia/blog/2938172.sHtMl
+
+原标题：内存广播本地进程消息通知
+简介：react 状态管理方案选型对比，对比 Redux、Zustand 等 React 状态管理库，分析适用业务场景辅助选型。
+ | 原文链接：http://wap.adsxlp.asia/blog/7493725.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：Nginx 丢失请求头配置修正
+简介：Mock 接口服务快速搭建实操，搭建模拟后端接口，自定义返回数据、延迟响应，前端开发阶段无需依赖真实后端服务。
+ | 原文链接：http://wap.adsxlp.asia/blog/1636247.sHtMl
+
+原标题：坑点：环境配置被打包进镜像引发安全泄露
+简介：golang go 爬虫 robots 协议遵守，解析 robots.txt 规则，控制爬虫抓取范围，合规采集网页数据。
+ | 原文链接：http://wap.adsxlp.asia/blog/7594735.sHtMl
+
+原标题：效率笔记：调试网络请求curl命令高级用法
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://wap.adsxlp.asia/blog/2968170.sHtMl
+
+原标题：golang 系统设计分表分页排序业务实现难点
+简介：golang go 初始化顺序包变量 init 函数，包级变量初始化，init 执行顺序，理解包加载执行流程。
+ | 原文链接：http://wap.adsxlp.asia/blog/9607968.sHtMl
+
+原标题：golang 分页查询封装通用工具
+简介：golang crypto 密码学最佳实践，go crypto 包加密签名，规避不安全算法，使用安全密码套件。
+ | 原文链接：http://wap.adsxlp.asia/blog/1727251.sHtMl
+
+原标题：golang url 参数编码处理方案
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://wap.adsxlp.asia/blog/6378191.sHtMl
+
+原标题：golang redis pipeline 批量操作
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://wap.adsxlp.asia/blog/6979470.sHtMl
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://wap.adsxlp.asia/blog/5361514.sHtMl
+
+原标题：性能笔记：布隆过滤器减少无效数据库查询
+简介：用户敏感数据脱敏代码实现，编写数据脱敏工具，对手机号、身份证做脱敏处理，防止敏感信息直接泄露。
+ | 原文链接：http://wap.adsxlp.asia/blog/2949381.sHtMl
+
+原标题：golang docker 镜像体积优化技巧
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://wap.adsxlp.asia/blog/8201706.sHtMl
+
+原标题：安全复盘：Redis命令注入风险防护手段
+简介：golang 限流器熔断降级组合使用，限流熔断降级组合架构，流量防护完整方案，保障服务稳定性。
+ | 原文链接：http://wap.adsxlp.asia/blog/8534025.sHtMl
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://wap.adsxlp.asia/blog/0201514.sHtMl
+
+原标题：golang grpc protobuf 开发实操
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://wap.adsxlp.asia/blog/3968574.sHtMl
+
+原标题：golang 系统设计敏感数据加密存储方案
+简介：数据库读写分离性能优化，讲解读写分离原理，主库写入从库查询，分担数据库查询压力，提升查询性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/7015779.sHtMl
+
+原标题：坑点：环境配置写死代码，上线忘记修改
+简介：数据库读写分离性能优化，讲解读写分离原理，主库写入从库查询，分担数据库查询压力，提升查询性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/4597667.sHtMl
+
+原标题：项目实践：灰度发布简易方案落地实践
+简介：golang 协程数量监控统计方案，统计运行中 goroutine 数量，监控协程泄露，协程数量异常及时告警。
+ | 原文链接：http://wap.adsxlp.asia/blog/5568558.sHtMl
+
+原标题：文件句柄上限调整上传随机失败
+简介：golang 漏桶算法实现接口限流，漏桶算法控制请求流出速率，平滑突发流量，削平流量峰值。
+ | 原文链接：http://wap.adsxlp.asia/blog/6013254.sHtMl
+
+原标题：golang 系统设计集成测试数据库回滚重置方案
+简介：golang snowflake 时钟回拨解决方案，雪花算法处理时钟回拨，防止生成重复 ID，保证 ID 全局唯一。
+ | 原文链接：http://wap.adsxlp.asia/blog/5898699.sHtMl
+
+原标题：部署复盘：配置不要硬编码进镜像最佳实践
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：http://wap.adsxlp.asia/blog/5680686.sHtMl
+
+原标题：golang kafka 消息顺序性保证方案
+简介：golang go1.18 + 泛型基础实操，go 泛型基础语法，泛型函数泛型类型，实现通用工具函数。
+ | 原文链接：http://wap.adsxlp.asia/blog/9371279.sHtMl
+
+原标题：golang 接口返回统一封装工具
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://wap.adsxlp.asia/blog/9269368.sHtMl
+
+原标题：运维笔记：备份策略数据库定时备份脚本
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://wap.adsxlp.asia/blog/0403582.sHtMl
+
+原标题：架构笔记：缓存雪崩缓存击穿架构防护方案
+简介：golang systemd 信号与优雅退出配合，systemd 停止服务发送 SIGTERM，go 程序捕获信号优雅关闭。
+ | 原文链接：http://wap.adsxlp.asia/blog/7935882.sHtMl
+
+原标题：golang 优雅关闭 grpc 服务示例
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：http://wap.adsxlp.asia/blog/3814651.sHtMl
+
+原标题：数值类型溢出错乱问题修复
+简介：golang cobra 命令行参数配置绑定，cobra 绑定配置文件环境变量命令行参数，多源配置合并。
+ | 原文链接：http://wap.adsxlp.asia/blog/6037924.sHtMl
+
+原标题：golang 系统设计第三方 sdk 二次封装技巧
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://wap.adsxlp.asia/blog/6586858.sHtMl
+
+原标题：golang 系统设计分布式锁选型对比
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：http://wap.adsxlp.asia/blog/9923014.sHtMl
+
+原标题：Redis 热点 key 拆分降低集群压力
+简介：webpack chunk 分包策略详解，讲解 webpack chunk 分包策略，拆分第三方包与业务代码，优化缓存复用。
+ | 原文链接：http://wap.adsxlp.asia/blog/5469556.sHtMl
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：golang 信号触发配置重载实践，收到 SIGUSR1 信号重新加载配置，线上无需重启刷新配置。
+ | 原文链接：http://wap.adsxlp.asia/blog/9681259.sHtMl
+
+原标题：安全笔记：GitHubAction密钥安全管理
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://wap.adsxlp.asia/blog/3825911.sHtMl
+
+原标题：golang k8s 滚动更新回滚策略
+简介：nodejs 项目 pm2 部署运维指南，使用 PM2 管理 Node 服务，进程守护、日志、重启，线上部署运维实操。
+ | 原文链接：http://wap.adsxlp.asia/blog/1564566.sHtMl
+
+原标题：Hands‑on：手写简易ORM框架理解底层原理
+简介：开发环境变量配置全平台教程，区分 Windows、macOS、Linux 系统，讲解环境变量配置、加载优先级与常见失效原因。
+ | 原文链接：http://wap.adsxlp.asia/blog/2687800.sHtMl
+
+原标题：Practice：实现多级缓存本地缓存+Redis实践
+简介：无用对象回收抑制内存上涨，优化对象生命周期，及时释放不再使用对象，抑制内存持续不断增长。
+ | 原文链接：http://wap.adsxlp.asia/blog/4609112.sHtMl
+
+原标题：Practice：实现接口签名、验签完整示例代码
+简介：golang docker 多阶段构建 go 镜像，Go 项目 Docker 多阶段构建，编译与运行阶段分离，大幅度缩减最终镜像体积，提升镜像分发效率。
+ | 原文链接：http://wap.adsxlp.asia/blog/3716791.sHtMl
+
+原标题：入门实践：简单重试逻辑封装实现
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：http://wap.adsxlp.asia/blog/0456880.sHtMl
+
+原标题：golang 系统设计开源 pr 评审合并流程实操
+简介：服务健康检查监控接口开发，开发健康检查接口，反馈服务运行状态，供编排工具监控服务存活状态。
+ | 原文链接：http://wap.adsxlp.asia/blog/5902243.sHtMl
+
+原标题：golang 系统设计日志系统架构思路
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：http://wap.adsxlp.asia/blog/6024446.sHtMl
+
+原标题：开发记录：实现完整用户登录鉴权业务模块
+简介：系统字符集统一乱码修复，统一数据库、程序、操作系统字符集，解决中文乱码显示异常问题。
+ | 原文链接：http://wap.adsxlp.asia/blog/1602503.sHtMl
+
+原标题：golang 系统设计分表分页排序业务实现难点
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：http://wap.adsxlp.asia/blog/0802312.sHtMl
+
+原标题：golang traceId spanId 传递方案
+简介：内存广播本地进程消息通知，实现进程内内存消息广播，进程内部模块之间事件通知解耦。
+ | 原文链接：http://wap.adsxlp.asia/blog/3242423.sHtMl
+
+三、实战开发｜Practice
+原标题：Redis 大 key 拆分集群卡顿解决
+简介：golang 大文件读取内存优化，Go 流式读取大文件，分块处理，避免大文件一次性加载全部到内存。
+ | 原文链接：http://wap.adsxlp.asia/blog/3295745.sHtMl
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：golang 集成测试测试数据库回滚，集成测试结束自动回滚数据库，不污染测试环境数据。
+ | 原文链接：http://wap.adsxlp.asia/blog/8690042.sHtMl
+
+原标题：golang 系统设计技术方案文档模板参考
+简介：golang 异步任务队列 worker 池开发，任务入数据库或 redis，worker 池消费执行，异步处理耗时业务。
+ | 原文链接：http://wap.adsxlp.asia/blog/0918019.sHtMl
+
+原标题：SDK 版本兼容线上崩溃修复
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：http://wap.adsxlp.asia/blog/8375770.sHtMl
+
+原标题：实践：代码提交前自动格式化校验配置实践
+简介：golang sync.Pool 对象池复用对象，sync.Pool 复用临时对象，减少内存分配，降低 GC 频率提升性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/8350031.sHtMl
+
+原标题：golang redis 主从复制哨兵原理
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：http://wap.adsxlp.asia/blog/0502480.sHtMl
+
+原标题：一次JWT令牌过期时间异常问题复盘
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://wap.adsxlp.asia/blog/3846004.sHtMl
+
+原标题：golang 系统设计定时任务分片执行分布式思路
+简介：golang sort 稳定排序 Stable，稳定排序保留相等元素原有顺序，业务需要稳定排序场景。
+ | 原文链接：http://wap.adsxlp.asia/blog/8402369.sHtMl
+
+原标题：排错：本地[localhost](https://localhost)可以，127001访问失败
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：http://wap.adsxlp.asia/blog/1480270.sHtMl
+
+原标题：golang 系统设计技术方案文档模板参考
+简介：golang bufio 缓冲读写性能优化，bufio 带缓冲读写，减少系统调用，提升文件网络 IO 性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/3613538.sHtMl
+
+原标题：OpenSource：开源项目README高质量编写指南
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：http://wap.adsxlp.asia/blog/3125923.sHtMl
+
+原标题：golang 系统设计 saga 事务补偿模式实现思路
+简介：线程池拒绝策略任务丢失防护，合理设置线程池拒绝策略，处理任务队列满场景，避免业务任务直接丢失。
+ | 原文链接：http://wap.adsxlp.asia/blog/4774668.sHtMl
+
+原标题：DevOps：GitLabCI完整流水线配置示例
+简介：数值类型溢出错乱问题修复，选择合适数值存储类型，处理数值溢出，避免数据存储错乱结果异常。
+ | 原文链接：http://wap.adsxlp.asia/blog/3792244.sHtMl
+
+原标题：golang k8s 节点污点容忍度配置
+简介：golang 信号量控制并发数量，使用信号量控制并发，限制同时执行任务数量，保护下游资源。
+ | 原文链接：http://wap.adsxlp.asia/blog/2476555.sHtMl
+
+原标题：Practice：实现IP黑名单拦截中间件实践
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://wap.adsxlp.asia/blog/9044778.sHtMl
+
+原标题：golang websocket 服务端开发
+简介：golang rate 令牌桶限流器源码理解，拆解令牌桶限流核心逻辑，理解令牌生成消耗，掌握限流底层原理。
+ | 原文链接：http://wap.adsxlp.asia/blog/4780020.sHtMl
+
+原标题：手写简易 RPC 服务通信原型
+简介：golang elasticsearch 客户端 golang 实操，es 客户端文档增删改查，条件搜索聚合统计对接搜索引擎。
+ | 原文链接：http://wap.adsxlp.asia/blog/0454779.sHtMl
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：golang netlink 系统信息获取，netlink 获取系统网络信息，网卡地址，内核网络状态读取。
+ | 原文链接：http://wap.adsxlp.asia/blog/2669911.sHtMl
+
+原标题：golang kafka 监控指标简单梳理
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://wap.adsxlp.asia/blog/2579798.sHtMl
+
+原标题：实战项目：GitHubAction自动测试构建实践
+简介：golang 错误静默忽略风险规避，禁止空忽略错误，必须处理或者明确注释为什么忽略错误。
+ | 原文链接：http://wap.adsxlp.asia/blog/1554801.sHtMl
+
+原标题：AI‑Dev：AI辅助编码高效使用提示词技巧
+简介：golang 单例模式实现几种方式，Go 单例模式多种实现对比，sync.Once 等方式，实现全局唯一实例。
+ | 原文链接：http://wap.adsxlp.asia/blog/7122445.sHtMl
+
+原标题：调优方案：JVM内存参数优化，降低GC频率
+简介：golang go 优雅处理信号丢失场景，处理信号丢失、信号被忽略，保障程序可以正常接收终止信号。
+ | 原文链接：http://wap.adsxlp.asia/blog/5047057.sHtMl
+
+原标题：Practice：实现多数据源动态切换组件实践
+简介：golang go 单二进制文件静态编译交叉编译，交叉编译不同操作系统架构二进制文件，实现一次编译多平台运行。
+ | 原文链接：http://wap.adsxlp.asia/blog/8577038.sHtMl
+
+原标题：避坑：批量操作未分批次，一次性内存打爆
+简介：时间精度统一业务判断修复，统一业务使用时间戳精度，毫秒秒区分清楚，修复时间判断逻辑错误。
+ | 原文链接：http://wap.adsxlp.asia/blog/0412478.sHtMl
+
+原标题：golang kafka 重试机制配置实操
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://wap.adsxlp.asia/blog/5069156.sHtMl
+
+原标题：nodejs 全局异常捕获进程防护
+简介：CI 流水线构建失败日志排查，阅读 CI 流水线输出日志，定位构建脚本、依赖、环境导致流水线失败问题。
+ | 原文链接：http://wap.adsxlp.asia/blog/2613140.sHtMl
+
+原标题：复盘总结：缓存改造业务落地踩坑复盘
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://wap.adsxlp.asia/blog/6357149.sHtMl
+
+原标题：HTTPS 证书过期更新操作
+简介：nodejs 日志轮转生产环境配置，配置 Node 日志轮转切割，防止日志文件无限变大，适配生产环境。
+ | 原文链接：http://wap.adsxlp.asia/blog/6901145.sHtMl
+
+原标题：golang 系统设计日志级别业务使用原则梳理
+简介：golang go 服务蓝绿发布实践思路，蓝绿两套实例，流量一键切换，回滚快速降低发布风险。
+ | 原文链接：http://wap.adsxlp.asia/blog/1789912.sHtMl
+
+原标题：性能笔记：布隆过滤器减少无效数据库查询
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://wap.adsxlp.asia/blog/6176565.sHtMl
+
+原标题：golang 系统设计业务指标系统指标定义思路
+简介：golang go 测试文件命名规范，_test.go 测试文件，TestXxx 单元测试函数命名规范。
+ | 原文链接：http://wap.adsxlp.asia/blog/4890809.sHtMl
+
+原标题：golang 时间时区处理避坑指南
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://wap.adsxlp.asia/blog/0143256.sHtMl
+
+原标题：golang 雪花 id 重复问题排查
+简介：vite 项目配置与构建提速技巧，讲解 vite 配置优化手段，提升开发热更新速度与生产构建打包效率。
+ | 原文链接：http://wap.adsxlp.asia/blog/2041785.sHtMl
+
+原标题：golang 系统设计分表扩容数据平滑迁移思路
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://wap.adsxlp.asia/blog/4936803.sHtMl
+
+原标题：golang 系统设计缓存更新策略 cache aside 讲解
+简介：数据库连接及时关闭连接泄漏，确保数据库连接使用完毕释放归还连接池，杜绝连接泄漏耗尽连接。
+ | 原文链接：http://wap.adsxlp.asia/blog/7157583.sHtMl
+
+原标题：golang 系统设计接口防刷 ip 限流实现
+简介：golang validator 自定义校验规则，Gin Validator 自定义校验器，实现业务特殊参数校验逻辑。
+ | 原文链接：http://wap.adsxlp.asia/blog/5476235.sHtMl
+
+原标题：程序日志分级输出规范实践
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：http://wap.adsxlp.asia/blog/8802902.sHtMl
+
+原标题：HelloGitHubPages：部署你的第一个静态博客
+简介：golang gorm 事务手动回滚提交，手动控制事务流程，业务异常主动回滚，保障数据操作原子性。
+ | 原文链接：http://wap.adsxlp.asia/blog/6690707.sHtMl
+
+原标题：Security：RPC调用身份认证安全加固
+简介：服务健康检查监控接口开发，开发健康检查接口，反馈服务运行状态，供编排工具监控服务存活状态。
+ | 原文链接：http://wap.adsxlp.asia/blog/9345579.sHtMl
+
+原标题：golang mysql 批量导入数据实操
+简介：大事务拆分回滚日志暴涨解决，拆分大型数据库事务，减少回滚日志生成量，避免磁盘被回滚日志占满。
+ | 原文链接：http://wap.adsxlp.asia/blog/7091144.sHtMl
+
+四、架构设计｜Architecture
+原标题：调优方案：Web服务内核socket参数调优
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：http://wap.adsxlp.asia/blog/2596663.sHtMl
+
+原标题：开发记录：分布式锁超时业务安全处理实践
+简介：golang 互斥锁读写锁并发安全，互斥锁读写锁实操，保护共享变量，解决多协程并发读写数据竞争。
+ | 原文链接：http://wap.adsxlp.asia/blog/9700897.sHtMl
+
+原标题：golang 系统设计缓存过期时间设置原则梳理
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://wap.adsxlp.asia/blog/1585756.sHtMl
+
+原标题：golang 分布式锁防死锁处理
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：http://wap.adsxlp.asia/blog/2147568.sHtMl
+
+原标题：运维笔记：系统文件句柄数调整生产配置
+简介：golang sftp 文件上传下载操作，sftp 协议远程文件上传下载，实现服务器之间文件传输功能。
+ | 原文链接：http://wap.adsxlp.asia/blog/9034548.sHtMl
+
+原标题：Troubleshooting：防火墙安全组拦截访问请求
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：http://wap.adsxlp.asia/blog/9235466.sHtMl
+
+原标题：运维笔记：服务器磁盘内存监控告警配置
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://wap.adsxlp.asia/blog/8944656.sHtMl
+
+原标题：前端打包产物体积压缩优化
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://wap.adsxlp.asia/blog/7124555.sHtMl
+
+原标题：坑点：gitpull冲突处理不当造成代码丢失
+简介：网关超时时间调优后端等待，调大网关向后端转发请求超时时间，给后端业务充足处理时间。
+ | 原文链接：http://wap.adsxlp.asia/blog/0456650.sHtMl
+
+原标题：性能调优：MySQL查询性能优化实战清单
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：http://wap.adsxlp.asia/blog/3789870.sHtMl
+
+原标题：golang mysql 防止 sql 注入实践
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://wap.adsxlp.asia/blog/6045467.sHtMl
+
+原标题：golang redis zset 排行榜业务实现
+简介：本地简易配置中心动态管理，搭建轻量本地配置中心，业务动态读取配置，修改配置不重启服务。
+ | 原文链接：http://wap.adsxlp.asia/blog/2209245.sHtMl
+
+原标题：golang redis hyperloglog 基数统计
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：http://wap.adsxlp.asia/blog/6789687.sHtMl
+
+原标题：实战项目：Nginx限速、限流、防爬虫配置实践
+简介：nodejs 读取大文件 csv 处理方案，Node 流式读取超大 CSV 文件，逐行解析，避免一次性加载全部文件。
+ | 原文链接：http://wap.adsxlp.asia/blog/7955133.sHtMl
+
+原标题：golang 系统设计 traceId 全链路透传完整方案
+简介：golang 分表跨表 join 查询处理方案，分表后跨分片关联查询解决方案，业务层聚合代替数据库 join。
+ | 原文链接：http://wap.adsxlp.asia/blog/8366307.sHtMl
+
+原标题：线程池拒绝策略任务丢失防护
+简介：WebSocket 聊天室实时通讯开发，基于 WebSocket 搭建简易聊天室，实现多人消息广播实时聊天效果。
+ | 原文链接：http://wap.adsxlp.asia/blog/1056245.sHtMl
+
+原标题：RPC 接口字段增减兼容处理
+简介：Git 标签版本标记发布管理，使用 Git 标签标记项目版本，打标签推送远程，用于版本发布、版本回溯。
+ | 原文链接：http://wap.adsxlp.asia/blog/6346715.sHtMl
+
+原标题：对象存储上传下载权限实操
+简介：文件锁正确使用避免死锁，合理使用文件锁，控制多进程访问同一个文件，规避文件锁死锁现象。
+ | 原文链接：http://wap.adsxlp.asia/blog/3473912.sHtMl
+
+?
